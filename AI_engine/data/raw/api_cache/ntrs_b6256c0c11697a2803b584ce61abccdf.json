@@ -1,0 +1,306 @@
+[
+  {
+    "id": "20220008786",
+    "source": "NTRS",
+    "title": "Spaceflight Associated Neuro-Ocular Syndrome (Sans): Proposed Pathogenesis, Terrestrial Analogs, and Emerging Countermeasures",
+    "summary": "Spaceflight Associated Neuro-ocular Syndrome (SANS) refers to a distinct constellation of ocular, neurological, and neuroimaging findings observed in astronauts during and following long duration spaceflight. These ocular findings, to include optic disc edema, posterior globe flattening, chorioretinal folds, and hyperopic shifts, were first described by NASA in 2011. SANS is a potential risk to astronaut health and will likely require mitigation prior to planetary travel with prolonged exposures to microgravity. While the exact pathogenesis of SANS is not completely understood, several hypotheses have been proposed to explain this neuro-ocular phenomenon. In this paper, we briefly discuss the current hypotheses and contributing factors underlying SANS pathophysiology as well as analogs utilized to study SANS on Earth. We also review emerging potential countermeasures for SANS including lower body negative pressure, nutritional supplementation, and translaminar pressure gradient modulation. Ongoing investigation within these fields will likely be instrumental in preparing and protecting astronaut vision for future spaceflight missions including deep space exploration.",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 96.74258
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "MAY_INCLUDE_COPYRIGHT_MATERIAL",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 20220008786,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "d6a027c82a004bf0b99e64fc2dc739e2"
+      },
+      "subjectCategories": [
+        "Aerospace Medicine"
+      ],
+      "keywords": [
+        "Astronauts",
+        "Papilledema diagnosis",
+        "Papilledema etiology",
+        "Space Flight",
+        "Weightlessness adverse effects"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20220008786,
+        "ear": "NO",
+        "id": "9e6fd9de815b43d18c4134e97a39675d",
+        "itar": "NO"
+      },
+      "distributionDate": "2023-01-23T05:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "10449.2.04.01.05.0317",
+          "submissionId": 20220008786,
+          "id": "920b4091c0124f4b9c4d1224df4e5d25",
+          "type": "WBS"
+        }
+      ],
+      "stiType": "ACCEPTED_MANUSCRIPT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2022-11-26T17:21:40.8636890+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "e5d17ddc4e205398b2d6600f157dcd5a",
+          "sequence": 0,
+          "submissionId": 20220008786,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0003-4860-827X",
+              "name": "Joshua Ong"
+            },
+            "organization": {
+              "name": "University of Pittsburgh School of Medicine",
+              "location": "Pittsburgh, Pennsylvania, United States"
+            }
+          },
+          "id": "4884ae255d9348aea1ce8b0400e18b2e",
+          "userId": "a27e5ca6ace14fc8be666a47a80ccb73"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 1,
+          "submissionId": 20220008786,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0003-0370-9157",
+              "name": "William Tarver"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "da138b8b9d40480b8748f8f592f5d3d3",
+          "userType": "CIVIL",
+          "userId": "3dee179195b949bfaf4ec433cd7b596e"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 2,
+          "submissionId": 20220008786,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Tyson Brunstetter"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "4845f4d031844763b89f08e398c02d22",
+          "userType": "CIVIL",
+          "userId": "315cb06caf6d408eaed3e5ff8e73094b"
+        },
+        {
+          "organizationId": "30956d12b05c56f99ba04cefabd82400",
+          "sequence": 3,
+          "submissionId": 20220008786,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Thomas H Mader"
+            },
+            "organization": {
+              "name": "KBR (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "0671a86da2054593a6cc6903283615e4",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "f50ca6d51ebf4036a6569cbee7934444"
+        },
+        {
+          "organizationId": "30956d12b05c56f99ba04cefabd82400",
+          "sequence": 4,
+          "submissionId": 20220008786,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "C Robert Gibson"
+            },
+            "organization": {
+              "name": "KBR (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "4492a2d8e78549a48b22683d070f1112",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "ad10b83134c147768d6e3c7fba02b303"
+        },
+        {
+          "organizationId": "68c7ff195be14c9a9987fd9b107196e3",
+          "sequence": 5,
+          "submissionId": 20220008786,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Sara S Mason"
+            },
+            "organization": {
+              "name": "Aegis Aerospace",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "dc84e1f32c88464290db72363302f134",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "6d265d11f35e46aa8eaadf4d70d03680"
+        },
+        {
+          "organizationId": "d4df723a03345e4eaa926ad66e1e4769",
+          "sequence": 6,
+          "submissionId": 20220008786,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0002-2473-299X",
+              "name": "Andrew G Lee"
+            },
+            "organization": {
+              "name": "Houston Methodist",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "81ab8995b3a248b3be40d1788da6edb7",
+          "userId": "300a4aa2630f4bc2a4d0b369174b2347"
+        }
+      ],
+      "stiTypeDetails": "Accepted Manuscript (Version with final changes)",
+      "technicalReviewType": "SINGLE_EXPERT",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "created": "2022-06-02T16:05:46.0204220+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20220008786,
+        "id": "596f6ec1309446bd94eab74732c4aa4c"
+      },
+      "publications": [
+        {
+          "volume": "107",
+          "submissionId": 20220008786,
+          "issn": "0007-1161",
+          "publisher": "BMJ Publishing Group",
+          "eissn": "1468-2079",
+          "id": "bd516a69d8cc4cffb77efff3424c1f42",
+          "publicationName": "British Journal of Ophthalmology",
+          "publicationDate": "2023-01-23T05:00:00.0000000+00:00",
+          "issuePublicationDate": "2023-06-22T04:00:00.0000000+00:00",
+          "doi": "10.1136/bjo-2022-322892"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "name": "BJO SANS Manuscript Final (1).docx",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20220008786/downloads/BJO%20SANS%20Manuscript%20Final%20(1).docx",
+            "pdf": "/api/citations/20220008786/downloads/BJO%20SANS%20Manuscript%20Final%20(1).docx.pdf",
+            "fulltext": "/api/citations/20220008786/downloads/BJO%20SANS%20Manuscript%20Final%20(1).docx.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  },
+  {
+    "id": "20000033143",
+    "source": "NTRS",
+    "title": "International Space Station: Expedition 2000",
+    "summary": "Live footage of the International Space Station (ISS) presents an inside look at the groundwork and assembly of the ISS. Footage includes both animation and live shots of a Space Shuttle liftoff. Phil West, Engineer; Dr. Catherine Clark, Chief Scientist ISS; and Joe Edwards, Astronaut, narrate the video. The first topic of discussion is People and Communications. Good communication is a key component in our ISS endeavor. Dr. Catherine Clark uses two soup cans attached by a string to demonstrate communication. Bill Nye the Science Guy talks briefly about science aboard the ISS. Charlie Spencer, Manager of Space Station Simulators, talks about communication aboard the ISS. The second topic of discussion is Engineering. Bonnie Dunbar, Astronaut at Johnson Space Flight Center, gives a tour of the Japanese Experiment Module (JEM). She takes us inside Node 2 and the U.S. Lab Destiny. She also shows where protein crystal growth experiments are performed. Audio terminal units are used for communication in the JEM. A demonstration of solar arrays and how they are tested is shown. Alan Bell, Project Manager MRMDF (Mobile Remote Manipulator Development Facility), describes the robot arm that is used on the ISS and how it maneuvers the Space Station. The third topic of discussion is Science and Technology. Dr. Catherine Clark, using a balloon attached to a weight, drops the apparatus to the ground to demonstrate Microgravity. The bursting of the balloon is observed. Sherri Dunnette, Imaging Technologist, describes the various cameras that are used in space. The types of still cameras used are: 1) 35 mm, 2) medium format cameras, 3) large format cameras, 4) video cameras, and 5) the DV camera. Kumar Krishen, Chief Technologist ISS, explains inframetrics, infrared vision cameras and how they perform. The Short Arm Centrifuge is shown by Dr. Millard Reske, Senior Life Scientist, to subject astronauts to forces greater than 1-g. Reske is interested in the physiological effects of the eyes and the muscular system after their exposure to forces greater than 1-g.",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 55.14031
+      },
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "submissionId": 20000033143,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "fc758cd8e6ff4e91910e1ecd2c60ced5",
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false
+      },
+      "subjectCategories": [
+        "Spacecraft Design, Testing And Performance"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20000033143,
+        "ear": "NO",
+        "id": "3d0fad1800fd4f83ae28e9808365f0a6",
+        "itar": "NO"
+      },
+      "created": "2013-08-19T13:50:00.0000000+00:00",
+      "distributionDate": "2019-06-27T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "NONP-NASA-VT-2000043347",
+        "Report Number: NONP-NASA-VT-2000043347"
+      ],
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "stiType": "VIDEO",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-19T13:50:00.0000000+00:00",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "stiTypeDetails": "Video",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "publications": [
+        {
+          "submissionId": 20000033143,
+          "id": "f6b138d7f9d84abe88388f14fa374d33",
+          "publicationDate": "2000-01-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  }
+]

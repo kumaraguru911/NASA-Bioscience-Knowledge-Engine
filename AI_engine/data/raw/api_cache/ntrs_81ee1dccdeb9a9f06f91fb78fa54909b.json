@@ -1,0 +1,335 @@
+[
+  {
+    "id": "20250005232",
+    "source": "NTRS",
+    "title": "International Space Station Familiarization Manual",
+    "summary": "The content of this document was provided by the Space Flight Training Division, Mission Operations Directorate (MOD), Lyndon B. Johnson Space Center (JSC), National Aeronautics and Space Administration (NASA). Technical documentation support was provided by Integrated Documentation Services (IDS), Hernandez Engineering, Inc. Any questions concerning this training manual or any recommendations should be directed to the training manual book manager, David Rose, at DT31.\n\nThis material is for training purposes only and should not be used as a source of operational data. All numerical data, displays, and checklist references are intended as examples. To determine any prerequisites before using this document, consult the applicable Certification Plan or Training Catalog.\n\nTwo format techniques are used in this document for emphasis. Text which is bolded and italicized is used to emphasize key concepts which are crucial to a sections\u2019 objective.",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 159.54715
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "submissionId": 20250005232,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "id": "c1acd271d45d4a648031d857391e704c",
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET"
+      },
+      "subjectCategories": [
+        "General"
+      ],
+      "keywords": [
+        "International Space Station",
+        " ISS",
+        "ISS Training",
+        "International Space Station Training"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20250005232,
+        "ear": "NO",
+        "id": "8c8aa50e1d034cd3a803e34c74ee97cf",
+        "itar": "NO"
+      },
+      "distributionDate": "2025-05-30T04:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "UNK",
+          "submissionId": 20250005232,
+          "id": "f570f6ee8ff34b01aa141cdc0c9cb28d",
+          "type": "OTHER"
+        },
+        {
+          "number": "Legacy Review",
+          "submissionId": 20250005232,
+          "id": "1a9805340f29441ebab560cb55208cc1",
+          "type": "OTHER"
+        }
+      ],
+      "stiType": "OTHER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2025-05-19T17:32:49.4979150+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 0,
+          "submissionId": 20250005232,
+          "meta": {
+            "author": {
+              "name": "Tacy Smith"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, United States"
+            }
+          },
+          "id": "077988a56cfa4be5b3f130c71d837dfb",
+          "userType": "OTHER"
+        }
+      ],
+      "stiTypeDetails": "Other - International Space Station Manual ",
+      "technicalReviewType": "NASA_TECHNICAL_MANAGEMENT",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "created": "2025-05-19T17:10:05.8934710+00:00",
+      "center": {
+        "code": "HQ",
+        "name": "Headquarters",
+        "id": "f0865a34ba1f474d865ab51f212fc69f"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20250005232,
+        "id": "fa9ee86360d1457f83e3b3ec4e72ea30"
+      },
+      "publications": [
+        {
+          "submissionId": 20250005232,
+          "publisher": "National Aeronautics and Space Administration",
+          "id": "770f85e30b40466fb72d1b80fbbcff66",
+          "publicationName": "International Space Station Familiarization",
+          "publicationDate": "1998-07-31T04:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "International Space Station Familiarization.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20250005232/downloads/International%20Space%20Station%20Familiarization.pdf",
+            "pdf": "/api/citations/20250005232/downloads/International%20Space%20Station%20Familiarization.pdf",
+            "fulltext": "/api/citations/20250005232/downloads/International%20Space%20Station%20Familiarization.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  },
+  {
+    "id": "19890064477",
+    "source": "NTRS",
+    "title": "Space Station payload accommodations",
+    "summary": "Accommodating a multitude of diverse payloads on the Space Station base and its platforms requires an early definition of payload candidates to assure an adequate assessment of payload requirements. The task of interpreting the payload requirements, translating them into Station design requirements, and developing the processes and procedures to accommodate and integrate the user onto the Station is the function of the NASA Space Station Program Office Utilization and Operations Group. This paper describes the Space Station assembly sequence, time-phased payload accommodations, and the unique research environment provided by the Space Station.",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 146.92749
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "submissionId": 19890064477,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "3c8e8ae207f5495eb38b33edd7dcc12e",
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false
+      },
+      "subjectCategories": [
+        "Spacecraft Design, Testing And Performance"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 19890064477,
+        "ear": "NO",
+        "id": "6199d56b786c4d23999296d603595d17",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-14T03:01:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 19890064477,
+          "meta": {
+            "author": {
+              "name": "Hemmerdinger, Louis"
+            },
+            "organization": {
+              "name": "Grumman Corp.",
+              "location": "Space Station Program Support Div., Reston, VA, United States"
+            }
+          },
+          "id": "69de1e39eb2e4afa88e7f129eb64c269"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 19890064477,
+          "meta": {
+            "author": {
+              "name": "Holt, Alan"
+            },
+            "organization": {
+              "name": "NASA Space Station Utilization and Operations Group",
+              "location": "Reston, VA, United States"
+            }
+          },
+          "id": "204481fe3c6a49eeb5feeea05f5a14b6"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": "89A51848"
+      },
+      "created": "2013-08-14T03:01:00.0000000+00:00",
+      "center": {
+        "code": "CDMS",
+        "name": "Legacy CDMS",
+        "id": "092d6e0881874968859b972d39a888dc"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "meetings": [
+        {
+          "country": "Switzerland",
+          "submissionId": 19890064477,
+          "endDate": "1988-02-25T00:00:00.0000000+00:00",
+          "name": "International Conference and Exhibition on the Commercial and Industrial Uses of Outer Space",
+          "location": "Montreux",
+          "id": "c84f1c8cb24d4d35b951db2c9ed6327f",
+          "startDate": "1988-02-21T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 19890064477,
+          "id": "d793fca6dec14416a0243c8dbd001bcd",
+          "publicationDate": "1988-01-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  },
+  {
+    "id": "19650011280",
+    "source": "NTRS",
+    "title": "Dynamics of a rotating cylindrical space station",
+    "summary": "Rotating cylindrical space station dynamics",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 139.96774
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "submissionId": 19650011280,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "a49d46adf7a54022810457bf480d42aa",
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false
+      },
+      "subjectCategories": [
+        "Space Vehicles"
+      ],
+      "keywords": [
+        "SPACE STATION",
+        "ROTATING CYLINDER",
+        "DYNAMICS"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 19650011280,
+        "ear": "NO",
+        "id": "d2eb1de3edd34f9083287415b8b44987",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-05-22T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "NASA-TN-D-2749",
+        "Report Number: NASA-TN-D-2749"
+      ],
+      "stiType": "OTHER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-09-02T11:08:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 19650011280,
+          "meta": {
+            "author": {
+              "name": "Polstorff, W. K."
+            },
+            "organization": {
+              "name": "NASA Marshall Space Flight Center",
+              "location": "Huntsville, AL, United States"
+            }
+          },
+          "id": "7f5ddb7850a84e56a596bd2666c7cdc0"
+        }
+      ],
+      "stiTypeDetails": "Other - NASA Technical Note (TN)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": "65N20881"
+      },
+      "created": "2013-09-02T11:08:00.0000000+00:00",
+      "center": {
+        "code": "CDMS",
+        "name": "Legacy CDMS",
+        "id": "092d6e0881874968859b972d39a888dc"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "publications": [
+        {
+          "submissionId": 19650011280,
+          "id": "e9ad687d10354714b7f9941213155ccc",
+          "publicationDate": "1965-04-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "19650011280.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/19650011280/downloads/19650011280.pdf",
+            "pdf": "/api/citations/19650011280/downloads/19650011280.pdf",
+            "fulltext": "/api/citations/19650011280/downloads/19650011280.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  }
+]

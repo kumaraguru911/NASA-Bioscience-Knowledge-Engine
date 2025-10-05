@@ -1,0 +1,689 @@
+[
+  {
+    "id": "20040089374",
+    "source": "NTRS",
+    "title": "Nutrition in space",
+    "summary": "The authors review studies conducted to define nutritional requirements for astronauts during space flight and to assess nutrition before, during, and after space flight. Topics include space food systems, research and limitations on spacecraft, physiological adaptation to weightlessness, energy requirements, dietary intake during space flight, bone demineralization, gastrointestinal function, blood volume, and nutrition requirements for space flight. Benefits of space-related nutrition research are highlighted.",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 243.71523
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "submissionId": 20040089374,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "08bb6cd655654008b1266e5f4c1e0744",
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false
+      },
+      "subjectCategories": [
+        "Aerospace Medicine"
+      ],
+      "keywords": [
+        "Review",
+        "Review, Tutorial",
+        "NASA Center JSC",
+        "NASA Discipline Regulatory Physiology",
+        "Space Flight",
+        "Astronauts",
+        "Aerospace Medicine",
+        "Weightlessness",
+        "Nutritional Requirements",
+        "Bone Demineralization, Pathologic",
+        "Adaptation, Physiological",
+        "Calcium/metabolism",
+        "Body Mass Index",
+        "Energy Intake",
+        "Erythrocyte Volume",
+        "Human",
+        "Food, Formulated"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20040089374,
+        "ear": "NO",
+        "id": "eb5f0205c72440178b10318bb445bb14",
+        "itar": "NO"
+      },
+      "distributionDate": "2011-08-23T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "ISSN: 0029-666X"
+      ],
+      "stiType": "REPRINT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-21T20:10:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20040089374,
+          "meta": {
+            "author": {
+              "name": "Smith, S. M."
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston TX United States"
+            }
+          },
+          "id": "987e7f238b4246ebb9d99918c183db5e"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20040089374,
+          "meta": {
+            "author": {
+              "name": "Davis-Street, J."
+            },
+            "organization": {}
+          },
+          "id": "aef3ce154a2d40e58b581898fa41ae7d"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20040089374,
+          "meta": {
+            "author": {
+              "name": "Rice, B. L."
+            },
+            "organization": {}
+          },
+          "id": "d6e66c98c9784a34b4286bba87f56c2b"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20040089374,
+          "meta": {
+            "author": {
+              "name": "Lane, H. W."
+            },
+            "organization": {}
+          },
+          "id": "cb388640dacd49fe97351c8e308a7ad4"
+        }
+      ],
+      "stiTypeDetails": "Reprint (Version printed in journal)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-21T20:10:00.0000000+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "publications": [
+        {
+          "volume": "32",
+          "submissionId": 20040089374,
+          "issue": "1",
+          "issn": "0029-666X",
+          "id": "a1b794a6a69a4efaa1bfbadde02d5159",
+          "publicationName": "Nutrition today",
+          "publicationDate": "1997-01-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  },
+  {
+    "id": "20150000512",
+    "source": "NTRS",
+    "title": "Evidence Report: Risk Factor of Inadequate Nutrition",
+    "summary": "The importance of nutrition in exploration has been documented repeatedly throughout history, where, for example, in the period between Columbus' voyage in 1492 and the invention of the steam engine, scurvy resulted in more sailor deaths than all other causes of death combined. Because nutrients are required for the structure and function of every cell and every system in the body, defining the nutrient requirements for spaceflight and ensuring provision and intake of those nutrients are primary issues for crew health and mission success. Unique aspects of nutrition during space travel include the overarching physiological adaptation to weightlessness, psychological adaptation to extreme and remote environments, and the ability of nutrition and nutrients to serve as countermeasures to ameliorate the negative effects of spaceflight on the human body. Key areas of clinical concern for long-duration spaceflight include loss of body mass (general inadequate food intake), bone and muscle loss, cardiovascular and immune system decrements, increased radiation exposure and oxidative stress, vision and ophthalmic changes, behavior and performance, nutrient supply during extravehicular activity, and general depletion of body nutrient stores because of inadequate food supply, inadequate food intake, increased metabolism, and/or irreversible loss of nutrients. These topics are reviewed herein, based on the current gap structure.",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 160.25949
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "submissionId": 20150000512,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "ff89834fa5774fa9ab453c7aaacec4df",
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false
+      },
+      "subjectCategories": [
+        "Aerospace Medicine",
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20150000512,
+        "ear": "NO",
+        "id": "a8fcd9fc2c38459bb7bac4ef6fbe37c4",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-11T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "JSC-CN-32587",
+        "Report Number: JSC-CN-32587"
+      ],
+      "stiType": "OTHER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2015-01-16T11:17:27.3970000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20150000512,
+          "meta": {
+            "author": {
+              "name": "Smith, Scott M."
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "95e0b3ed2cf4444381f0beeef839bb4a"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20150000512,
+          "meta": {
+            "author": {
+              "name": "Zwart, Sara R."
+            },
+            "organization": {
+              "name": "Universities Space Research Association",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "a7b880c9cfe54ce494b73fed5aa2276c"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20150000512,
+          "meta": {
+            "author": {
+              "name": "Heer, Martina"
+            },
+            "organization": {
+              "name": "Bonn Univ.",
+              "location": "Germany"
+            }
+          },
+          "id": "a242005b7d0c4717a153547a4aee876d"
+        }
+      ],
+      "stiTypeDetails": "Other",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2015-01-16T11:17:27.3970000+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "publications": [
+        {
+          "submissionId": 20150000512,
+          "id": "0bc62a5447ad48418f6858322b8319e8",
+          "publicationDate": "2015-01-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20150000512.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20150000512/downloads/20150000512.pdf",
+            "pdf": "/api/citations/20150000512/downloads/20150000512.pdf",
+            "fulltext": "/api/citations/20150000512/downloads/20150000512.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  },
+  {
+    "id": "20020034928",
+    "source": "NTRS",
+    "title": "The Role of Nutrition in the Changes in Bone and Calcium Metabolism During Space Flight",
+    "summary": "On Earth, the primary purpose of the skeleton is provide structural support for the body. In space, the support function of the skeleton is reduced since, without gravity, structures have only mass and no weight. The adaptation to space flight is manifested by shifts in mineral distribution, altered bone turnover, and regional mineral deficits in weight-bearing bones. The shifts in mineral distribution appear to be related to the cephalic fluid shift. The redistribution of mineral from one bone to another or to and from areas in the same bone in response to alterations in gravitational loads is more likely to affect skeletal function than quantitative whole body losses and gains. The changes in bone turnover appear dependent upon changes in body weight with weight loss tending to increase bone resorption as well as decrease bone formation. During bedrest, the bone response to unloading varies depending upon the routine activity level of the subjects with more active subjects showing a greater suppression of bone formation in the iliac crest with inactivity. Changes in body composition during space flight are predicted by bedrest studies on Earth which show loss of lean body mass and increase tn body fat in adult males after one month. In ambulatory studies on Earth, exercising adult males of the same age, height, g weight, body mass index, and shoe size show significantly higher whole body mineral and lean body mass. than non-exercising subjects. Nutritional preference appears to change with activity level. Diet histories in exercisers and nonexercisers who maintain identical body weights show no differences in nutrients except for slightly higher carbohydrate intake in the exercisers. The absence of differences in dietary calcium in men with higher total body calcium is noteworthy. In this situation, the increased bone mineral content was facilitated by the calcium endocrine system. This regulatory system can be by-passed by raising dietary calcium. Increased calcium intake can increase the calcium content in normally loaded bone. However, bone with a higher calcium content still decreases proportionally to normal bone during unloading. Nutritional requirements in space should be reevaluated with respect to these adaptive changes to loading and physical activity.",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 148.1126
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "submissionId": 20020034928,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "7e5ded502d8d40bb883ca9accf758a19",
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false
+      },
+      "subjectCategories": [
+        "Aerospace Medicine"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20020034928,
+        "ear": "NO",
+        "id": "5a2eb57ff1454777bb2b18f772086008",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-17T00:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "RTOP 199-26-12-36",
+          "submissionId": 20020034928,
+          "id": "e410726ffbf241d0836293d64b8c6406",
+          "type": "PROJECT"
+        }
+      ],
+      "stiType": "ABSTRACT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-20T16:43:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20020034928,
+          "meta": {
+            "author": {
+              "name": "Morey-Holton, Emily R."
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA United States"
+            }
+          },
+          "id": "5de6b8719b484a3ab85fb65a0550e3b4"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20020034928,
+          "meta": {
+            "author": {
+              "name": "Arnaud, Sara B."
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA United States"
+            }
+          },
+          "id": "19de097d147e45d896a19ad8742aa885"
+        }
+      ],
+      "stiTypeDetails": "Abstract",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-20T16:43:00.0000000+00:00",
+      "center": {
+        "code": "ARC",
+        "name": "Ames Research Center",
+        "id": "4540cd94d24c4bf29f8773a27faf96b2"
+      },
+      "onlyAbstract": true,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "meetings": [
+        {
+          "country": "Japan",
+          "submissionId": 20020034928,
+          "endDate": "1995-07-14T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "cfd3a408feb1469ea70a21012aa83aec",
+              "meta": {
+                "organization": {
+                  "name": "Japanese Society for Surgical Metabolism and Nutrition",
+                  "location": "Japan"
+                }
+              },
+              "meetingId": "d344939b65f74719b79fa5445fb08c0a",
+              "id": "253ec34259d94346919a3c8968223cba"
+            }
+          ],
+          "name": "32nd Annual Congress of Japanese Society for Surgical Metabolism and Nutrition",
+          "location": "Tokyo",
+          "id": "d344939b65f74719b79fa5445fb08c0a",
+          "startDate": "1995-07-12T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20020034928,
+          "id": "719cf052c0ee49d68474e43b50e4b8b8",
+          "publicationDate": "1995-01-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  },
+  {
+    "id": "20040088075",
+    "source": "NTRS",
+    "title": "Red blood cell and iron metabolism during space flight",
+    "summary": "Space flight anemia is a widely recognized phenomenon in astronauts. Reduction in circulating red blood cells and plasma volume results in a 10% to 15% decrement in circulatory volume. This effect appears to be a normal physiologic adaptation to weightlessness and results from the removal of newly released blood cells from the circulation. Iron availability increases, and (in the few subjects studied) iron stores increase during long-duration space flight. The consequences of these changes are not fully understood.",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 137.39655
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "submissionId": 20040088075,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "74e775c4f5cb47488e32d9956afe920f",
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false
+      },
+      "subjectCategories": [
+        "Life Sciences (General)"
+      ],
+      "keywords": [
+        "STS Shuttle Project",
+        "Flight Experiment",
+        "NASA Center JSC",
+        "long duration",
+        "short duration",
+        "Review, Tutorial",
+        "Skylab Project",
+        "Review",
+        "manned",
+        "NASA Discipline Regulatory Physiology",
+        "Iron/metabolism",
+        "Anemia/blood/etiology",
+        "Erythropoiesis",
+        "Weightlessness/adverse effects",
+        "Space Flight",
+        "Astronauts",
+        "Erythrocytes",
+        "Blood Volume",
+        "Adaptation, Physiological",
+        "Human",
+        "Plasma Volume"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20040088075,
+        "ear": "NO",
+        "id": "af3b4eaca348431a86c2d9f2392916eb",
+        "itar": "NO"
+      },
+      "distributionDate": "2011-08-23T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "ISSN: 0899-9007"
+      ],
+      "stiType": "REPRINT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-21T20:03:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20040088075,
+          "meta": {
+            "author": {
+              "name": "Smith, Scott M."
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston TX United States"
+            }
+          },
+          "id": "8457e6158c3d4abe820ed29fc64362b1"
+        }
+      ],
+      "stiTypeDetails": "Reprint (Version printed in journal)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "sourceIdentifiers": [
+        {
+          "number": "doi:10.1016/S0899-9007(02)00912-7",
+          "submissionId": 20040088075,
+          "id": "a9501ab577774a3daae439ad1d77a7ef",
+          "type": "DOI"
+        },
+        {
+          "submissionId": 20040088075,
+          "id": "f60a7f8594854f9e88e4fac5e27fbf87",
+          "descriptor": "doi:10.1016/S0899-9007(02)00912-7"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-21T20:03:00.0000000+00:00",
+      "center": {
+        "code": "CDMS",
+        "name": "Legacy CDMS",
+        "id": "092d6e0881874968859b972d39a888dc"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "publications": [
+        {
+          "volume": "18",
+          "submissionId": 20040088075,
+          "issue": "10",
+          "issn": "0899-9007",
+          "id": "12e7089fa024498eb7e29d1288b44f27",
+          "publicationName": "Nutrition (Burbank, Los Angeles County, Calif.)",
+          "publicationDate": "2002-10-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  },
+  {
+    "id": "19910021355",
+    "source": "NTRS",
+    "title": "USSR Space Life Sciences Digest, issue 31",
+    "summary": "This is the thirty first issue of NASA's Space Life Sciences Digest. It contains abstracts of 55 journal papers or book chapters published in Russian and of 5 Soviet monographs. Selected abstracts are illustrated with figures and tables from the original. The abstracts in this issue have been identified as relevant to 18 areas of space biology and medicine. These areas include: adaptation, biological rhythms, cardiovascular and respiratory systems, endocrinology, enzymology, genetics, group dynamics, habitability and environmental effects, hematology, life support systems, metabolism, microbiology, musculoskeletal system, neurophysiology, nutrition, operational medicine, psychology, radiobiology, and space biology and medicine.",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 125.44887
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "submissionId": 19910021355,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "0ce5f50d4c3d47d0aa3406bffb48216e",
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false
+      },
+      "subjectCategories": [
+        "Life Sciences (General)"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 19910021355,
+        "ear": "NO",
+        "id": "febfbc860ba9446e97e8b6afeb59a02e",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-06-25T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "NAS 1.26:3922(37)",
+        "NASA-CR-3922(37)",
+        "Report Number: NAS 1.26:3922(37)",
+        "Report Number: NASA-CR-3922(37)"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "NASW-4292",
+          "submissionId": 19910021355,
+          "id": "c086b9159f7e4565a691531d545b5259",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "stiType": "OTHER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-09-06T14:48:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 19910021355,
+          "meta": {
+            "author": {
+              "name": "Hooke, Lydia Razran"
+            },
+            "organization": {
+              "name": "Lockheed Engineering and Sciences Co.",
+              "location": "Washington, DC, United States"
+            }
+          },
+          "id": "595b05ef6c5d45598d9491368f45ea2b"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 19910021355,
+          "meta": {
+            "author": {
+              "name": "Teeter, Ronald"
+            },
+            "organization": {
+              "name": "Lockheed Engineering and Sciences Co.",
+              "location": "Washington, DC, United States"
+            }
+          },
+          "id": "0aa53ef6244148449407873bd384ca25"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 19910021355,
+          "meta": {
+            "author": {
+              "name": "Garshnek, Victoria"
+            },
+            "organization": {
+              "name": "Lockheed Engineering and Sciences Co.",
+              "location": "Washington, DC, United States"
+            }
+          },
+          "id": "62e9ffc4694a44aba07d427019b333a4"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 19910021355,
+          "meta": {
+            "author": {
+              "name": "Rowe, Joseph"
+            },
+            "organization": {
+              "name": "Lockheed Engineering and Sciences Co.",
+              "location": "Washington, DC, United States"
+            }
+          },
+          "id": "5591f6509f4d4dd99e622ec8629b7488"
+        }
+      ],
+      "stiTypeDetails": "Other - Other",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": "91N30669"
+      },
+      "created": "2013-09-06T14:48:00.0000000+00:00",
+      "center": {
+        "code": "CDMS",
+        "name": "Legacy CDMS",
+        "id": "092d6e0881874968859b972d39a888dc"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "publications": [
+        {
+          "submissionId": 19910021355,
+          "publisher": "NASA",
+          "id": "6e566aba4b4c41a1a82a82f7821f7e65",
+          "publicationDate": "1990-01-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "19910021355.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/19910021355/downloads/19910021355.pdf",
+            "pdf": "/api/citations/19910021355/downloads/19910021355.pdf",
+            "fulltext": "/api/citations/19910021355/downloads/19910021355.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  }
+]

@@ -1,0 +1,2478 @@
+[
+  {
+    "id": "19650008978",
+    "source": "NTRS",
+    "title": "Proteins in space nutrition",
+    "summary": "Proteins in manned space flight nutrition",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 208.64745
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "submissionId": 19650008978,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "76563952a0004502b9400fe77358538f",
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false
+      },
+      "subjectCategories": [
+        "Biosciences"
+      ],
+      "keywords": [
+        "NUTRITION",
+        "PROTEIN",
+        "MANNED SPACE FLIGHT"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 19650008978,
+        "ear": "NO",
+        "id": "90e739c209cd45e496eb4e5ef74a43ee",
+        "itar": "NO"
+      },
+      "distributionDate": "1996-02-12T05:00:00.0000000+00:00",
+      "stiType": "OTHER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-02T15:48:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "73b3f73f906347219b45c89a1ae0729e",
+          "sequence": 0,
+          "submissionId": 19650008978,
+          "meta": {
+            "author": {
+              "name": "D. M. Hegsted"
+            },
+            "organization": {
+              "name": "Harvard School of Public Health",
+              "location": "Boston, MA, USA"
+            }
+          },
+          "id": "77710ef87da74b099b375951730178bf",
+          "userType": "OTHER"
+        }
+      ],
+      "stiTypeDetails": "Other",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": "65N18579"
+      },
+      "created": "2013-08-02T15:48:00.0000000+00:00",
+      "center": {
+        "code": "HQ",
+        "name": "Headquarters",
+        "id": "f0865a34ba1f474d865ab51f212fc69f"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "cui": {
+        "isCui": false,
+        "submissionId": 19650008978,
+        "id": "2abced99dac0441bbc042684df602179"
+      },
+      "meetings": [
+        {
+          "country": "US",
+          "submissionId": 19650008978,
+          "endDate": "1964-04-30T04:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "5b1e37c119115a80b7fe3d9ec0130af5",
+              "meta": {
+                "organization": {
+                  "name": "University of South Florida",
+                  "location": "Tampa, Florida, United States"
+                }
+              },
+              "meetingId": "56c704c7818846a9bb320a9c2b33ce7a",
+              "id": "44ad878d424444729c627f68c51bb39e"
+            },
+            {
+              "organizationId": "b5f692fd60a058838ea6af4d45770ec3",
+              "meta": {
+                "organization": {
+                  "name": "National Academy of Sciences",
+                  "location": "Washington D.C., District of Columbia, United States"
+                }
+              },
+              "meetingId": "56c704c7818846a9bb320a9c2b33ce7a",
+              "id": "ebcd8ac64cf149d3b898d08c4aa6303b"
+            },
+            {
+              "organizationId": "e53641f275f15469a1b19a8980e09171",
+              "meta": {
+                "organization": {
+                  "name": "National Aeronautics and Space Administration",
+                  "location": "Washington, United States"
+                }
+              },
+              "meetingId": "56c704c7818846a9bb320a9c2b33ce7a",
+              "id": "6478cea6dd7d4c4b8feacde9d36638f9"
+            }
+          ],
+          "name": "Conference on Nutrition in Space and Related Waste Problems",
+          "location": "Tampa, FL",
+          "id": "56c704c7818846a9bb320a9c2b33ce7a",
+          "startDate": "1964-04-27T04:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 19650008978,
+          "id": "3acb3091c5d145b6bbdb590480b284d8",
+          "publicationDate": "1964-01-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 19650008965,
+          "type": "ANALYTIC_PRIMARY",
+          "title": "Conference on Nutrition in Space and Related Waste Problems",
+          "stiType": "SPECIAL_PUBLICATION",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 19650008965,
+          "type": "ANALYTIC_PRIMARY",
+          "title": "Conference on Nutrition in Space and Related Waste Problems",
+          "stiType": "SPECIAL_PUBLICATION",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [],
+      "downloadsAvailable": true,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  },
+  {
+    "id": "19650008965",
+    "source": "NTRS",
+    "title": "Conference on Nutrition in Space and Related Waste Problems",
+    "summary": "As part of a continuing process man constantly seeks new habitats. In the late 1950's, he ventured into a vast and challenging new habitat, extraterrestrial space. Extending the realm of human life has always been a challenge to man, and inherent to all successful extensions of man into new domains is his ability to provide the essentials for life itself, his nutrition and controlled use of metabolic products. The provision of these essential requirements has always been a challenge and a motivating force in maintaining and extending human life on Earth. This challenge has now been extended beyond the Earth. As illustrated in this volume, many men and women of vision who continually devote their energies to feeding man on Earth have accepted the additional challenge of nutrition in space. They have already made inroads into the new problem of nutrition and waste handling in space and have already collected much physiological, psychological, toxicological, and pathological data related to space nutrition, feeding and elimination. They have elucidated man-machine interactions and the effects of these interactions on alimentation and elimination requirements in space. Thus light has been shed on specific research and development programs needed to establish requirements for nutrition and handling of metabolic wastes during manned space missions of 20 days' to 3 years' duration. These initial accomplishments have entailed the considerable efforts of many people and the knowledge and experience in nutrition and feeding gained by the Space Science Board of the National Academy of Sciences. This volume clearly represents the ability of scientists, engineers, and administrators to attack a problem as it arises; it clearly demonstrates the capability of the scientific and engineering communities to combine efforts, mobilize quickly, and devote their talents to a national need",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 205.87018
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 19650008965,
+        "containsThirdPartyMaterial": true,
+        "belongsToPublisher": false,
+        "id": "df67b4590d4c4fafa57b5b2dacf43b6b"
+      },
+      "subjectCategories": [
+        "Aerospace Medicine"
+      ],
+      "keywords": [
+        "Space environment",
+        "Conference",
+        "Nutrition"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 19650008965,
+        "ear": "NO",
+        "id": "cb1bd27252d4419bbd9494e4e1112f07",
+        "itar": "NO"
+      },
+      "distributionDate": "1996-02-12T05:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "Report Number: NASA-SP-70",
+        "NASA-SP-70"
+      ],
+      "stiType": "SPECIAL_PUBLICATION",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-02T15:48:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "e53641f275f15469a1b19a8980e09171",
+          "sequence": 0,
+          "submissionId": 19650008965,
+          "meta": {
+            "author": {
+              "name": "Michael G Del Duca"
+            },
+            "organization": {
+              "name": "National Aeronautics and Space Administration",
+              "location": "Washington D.C., District of Columbia, United States"
+            }
+          },
+          "id": "dd08a340a9c04d7fa93b99e68e88cd0c",
+          "userType": "OTHER"
+        }
+      ],
+      "stiTypeDetails": "Special Publication (SP)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": "65N18566"
+      },
+      "created": "2013-08-02T15:48:00.0000000+00:00",
+      "center": {
+        "code": "HQ",
+        "name": "Headquarters",
+        "id": "f0865a34ba1f474d865ab51f212fc69f"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 19650008965,
+        "id": "ee3fed597ec64beeb053924395485a2e"
+      },
+      "meetings": [
+        {
+          "country": "US",
+          "submissionId": 19650008965,
+          "endDate": "1964-04-30T04:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "5b1e37c119115a80b7fe3d9ec0130af5",
+              "meta": {
+                "organization": {
+                  "name": "University of South Florida",
+                  "location": "Tampa, Florida, United States"
+                }
+              },
+              "meetingId": "b7de1192d6954867b7bc3d297b7a9d86",
+              "id": "9046192c59954866bcb4f3ae2e60aa60"
+            },
+            {
+              "organizationId": "b5f692fd60a058838ea6af4d45770ec3",
+              "meta": {
+                "organization": {
+                  "name": "National Academy of Sciences",
+                  "location": "Washington D.C., District of Columbia, United States"
+                }
+              },
+              "meetingId": "b7de1192d6954867b7bc3d297b7a9d86",
+              "id": "dcf90e4d3f484e4aa344c72424d6de66"
+            },
+            {
+              "organizationId": "e53641f275f15469a1b19a8980e09171",
+              "meta": {
+                "organization": {
+                  "name": "National Aeronautics and Space Administration",
+                  "location": "Washington D.C., District of Columbia, United States"
+                }
+              },
+              "meetingId": "b7de1192d6954867b7bc3d297b7a9d86",
+              "id": "18216170be7a4573815b7e19f576d497"
+            }
+          ],
+          "name": "Conference on Nutrition in Space and Related Waste Problems",
+          "location": "Tampa, FL",
+          "id": "b7de1192d6954867b7bc3d297b7a9d86",
+          "startDate": "1964-04-27T04:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 19650008965,
+          "publisher": "National Aeronautics and Space Administration",
+          "id": "90c1f3d7335946c99966b07e8c9569a4",
+          "publicationName": "Conference on Nutrition in Space and Related Waste Problems",
+          "publicationDate": "1964-01-01T05:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "redistributedDate": "2021-08-27T00:00:00.0000000",
+      "related": [
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008966,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Nutrition-waste complex - a pressing problem in manned space exploration",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008967,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Nutrition and related studies in the office of advanced research and technology, nasa",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008968,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Nutritional Trends in Future Manned Space Flights",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008969,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Nutrition and related studies in the office of space science and applications, nasa",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008970,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Overview of united states army medical service research in nutrition",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008971,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "U.S. Air Force Program on Aerospace Nutrition Research",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008972,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Manned space flight in the context of national goals",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008973,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Preparation, handling, and storage of foods for present space projects",
+          "stiType": "CONTRIBUTION_TO_LARGER_WORK",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008976,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Waste management for closed environments",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008977,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Caloric requirements of long flights",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008978,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Proteins in space nutrition",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008979,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Mineral and vitamin requirements of long flights",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008980,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Human nutritional requirements for water in long space flights",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008981,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Water generation in space",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008982,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Dietary regimes in space cabin simulator studies",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008984,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Gastric and bowel motility-  effect of diet",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008985,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Intestinal flora",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008986,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Effects of prolonged bed rest",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008987,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Flatus",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008988,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Integration and mechanics of waste collection and processes",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008989,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Liquid wastes and water potability in space vehicles",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008990,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Combined photosynthetic regenerative systems",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008992,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Plant systems as long term flight nourishment sources",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008993,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Algae systems",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008994,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Study of effects of carbohydrates on the body under stress and fatigue",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008995,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Chemical synthesis of proteinoids,  part 1",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008996,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Chemical synthesis of proteinoids, part 2",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008997,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "High energy nonfat nutrient sources",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008998,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Use of formula diets",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008999,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Multiple uses for foods",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650009000,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Protein, energy, and water requirements of man under simulated space stresses",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650009001,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Overall energy management as related to nutrition and waste",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008966,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Nutrition-waste complex - a pressing problem in manned space exploration",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008967,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Nutrition and related studies in the office of advanced research and technology, nasa",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008968,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Nutritional Trends in Future Manned Space Flights",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008969,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Nutrition and related studies in the office of space science and applications, nasa",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008970,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Overview of united states army medical service research in nutrition",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008971,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "U.S. Air Force Program on Aerospace Nutrition Research",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008972,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Manned space flight in the context of national goals",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008973,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Preparation, handling, and storage of foods for present space projects",
+          "stiType": "CONTRIBUTION_TO_LARGER_WORK",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008974,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Nutrition and Stresses of Short Term Space Flight",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008976,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Waste management for closed environments",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008977,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Caloric requirements of long flights",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008978,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Proteins in space nutrition",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008979,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Mineral and vitamin requirements of long flights",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008980,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Human nutritional requirements for water in long space flights",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008981,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Water generation in space",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008982,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Dietary regimes in space cabin simulator studies",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008984,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Gastric and bowel motility-  effect of diet",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008985,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Intestinal flora",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008986,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Effects of prolonged bed rest",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008987,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Flatus",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008988,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Integration and mechanics of waste collection and processes",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008989,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Liquid wastes and water potability in space vehicles",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008990,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Combined photosynthetic regenerative systems",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008992,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Plant systems as long term flight nourishment sources",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008993,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Algae systems",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008994,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Study of effects of carbohydrates on the body under stress and fatigue",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008995,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Chemical synthesis of proteinoids,  part 1",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008996,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Chemical synthesis of proteinoids, part 2",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008997,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "High energy nonfat nutrient sources",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008998,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Use of formula diets",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008999,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Multiple uses for foods",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650009000,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Protein, energy, and water requirements of man under simulated space stresses",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650009001,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Overall energy management as related to nutrition and waste",
+          "stiType": "OTHER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 19650008974,
+          "type": "ANALYTIC_PRIMARY",
+          "title": "Nutrition and Stresses of Short Term Space Flight",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "19650008965.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/19650008965/downloads/19650008965.pdf",
+            "pdf": "/api/citations/19650008965/downloads/19650008965.pdf",
+            "fulltext": "/api/citations/19650008965/downloads/19650008965.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  },
+  {
+    "id": "20040089374",
+    "source": "NTRS",
+    "title": "Nutrition in space",
+    "summary": "The authors review studies conducted to define nutritional requirements for astronauts during space flight and to assess nutrition before, during, and after space flight. Topics include space food systems, research and limitations on spacecraft, physiological adaptation to weightlessness, energy requirements, dietary intake during space flight, bone demineralization, gastrointestinal function, blood volume, and nutrition requirements for space flight. Benefits of space-related nutrition research are highlighted.",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 201.25784
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "submissionId": 20040089374,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "08bb6cd655654008b1266e5f4c1e0744",
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false
+      },
+      "subjectCategories": [
+        "Aerospace Medicine"
+      ],
+      "keywords": [
+        "Review",
+        "Review, Tutorial",
+        "NASA Center JSC",
+        "NASA Discipline Regulatory Physiology",
+        "Space Flight",
+        "Astronauts",
+        "Aerospace Medicine",
+        "Weightlessness",
+        "Nutritional Requirements",
+        "Bone Demineralization, Pathologic",
+        "Adaptation, Physiological",
+        "Calcium/metabolism",
+        "Body Mass Index",
+        "Energy Intake",
+        "Erythrocyte Volume",
+        "Human",
+        "Food, Formulated"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20040089374,
+        "ear": "NO",
+        "id": "eb5f0205c72440178b10318bb445bb14",
+        "itar": "NO"
+      },
+      "distributionDate": "2011-08-23T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "ISSN: 0029-666X"
+      ],
+      "stiType": "REPRINT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-21T20:10:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20040089374,
+          "meta": {
+            "author": {
+              "name": "Smith, S. M."
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston TX United States"
+            }
+          },
+          "id": "987e7f238b4246ebb9d99918c183db5e"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20040089374,
+          "meta": {
+            "author": {
+              "name": "Davis-Street, J."
+            },
+            "organization": {}
+          },
+          "id": "aef3ce154a2d40e58b581898fa41ae7d"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20040089374,
+          "meta": {
+            "author": {
+              "name": "Rice, B. L."
+            },
+            "organization": {}
+          },
+          "id": "d6e66c98c9784a34b4286bba87f56c2b"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20040089374,
+          "meta": {
+            "author": {
+              "name": "Lane, H. W."
+            },
+            "organization": {}
+          },
+          "id": "cb388640dacd49fe97351c8e308a7ad4"
+        }
+      ],
+      "stiTypeDetails": "Reprint (Version printed in journal)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-21T20:10:00.0000000+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "publications": [
+        {
+          "volume": "32",
+          "submissionId": 20040089374,
+          "issue": "1",
+          "issn": "0029-666X",
+          "id": "a1b794a6a69a4efaa1bfbadde02d5159",
+          "publicationName": "Nutrition today",
+          "publicationDate": "1997-01-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  },
+  {
+    "id": "19650008971",
+    "source": "NTRS",
+    "title": "U.S. Air Force Program on Aerospace Nutrition Research",
+    "summary": "Nutrition, diet, and metabolism in space flight",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 185.31186
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "disclosedToPublic": false,
+        "submissionId": 19650008971,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "49132aa1027447e2b26f0386c18f61bf",
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false
+      },
+      "subjectCategories": [
+        "Biosciences"
+      ],
+      "keywords": [
+        "DIET",
+        "MANNED SPACE FLIGHT",
+        "NUTRITION",
+        "METABOLISM"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 19650008971,
+        "ear": "NO",
+        "id": "abd31f6cce19413e84e6f45718c7c49c",
+        "itar": "NO"
+      },
+      "distributionDate": "1996-02-12T05:00:00.0000000+00:00",
+      "stiType": "OTHER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-02T15:48:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "1b98ded9e75b5af293809243359087c8",
+          "sequence": 0,
+          "submissionId": 19650008971,
+          "meta": {
+            "author": {
+              "name": "Joseph M Quashnock"
+            },
+            "organization": {
+              "name": "Naval Aerospace Medical Research Laboratory",
+              "location": "Pensacola, Florida, United States"
+            }
+          },
+          "id": "d3775e73586a487fb62596bd904e052f",
+          "userType": "OTHER"
+        }
+      ],
+      "stiTypeDetails": "Other",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": "65N18572"
+      },
+      "created": "2013-08-02T15:48:00.0000000+00:00",
+      "center": {
+        "code": "HQ",
+        "name": "Headquarters",
+        "id": "f0865a34ba1f474d865ab51f212fc69f"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "cui": {
+        "submissionId": 19650008971,
+        "id": "f10b943bc2f8450a8da9ba4326c8c8ae"
+      },
+      "meetings": [
+        {
+          "country": "US",
+          "submissionId": 19650008971,
+          "endDate": "1964-04-30T04:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "5b1e37c119115a80b7fe3d9ec0130af5",
+              "meta": {
+                "organization": {
+                  "name": "University of South Florida",
+                  "location": "Tampa, Florida, United States"
+                }
+              },
+              "meetingId": "39eed87064914129ba8da6c491e6502e",
+              "id": "f937fddd8b9f40dfbb436c99213e5290"
+            },
+            {
+              "organizationId": "b5f692fd60a058838ea6af4d45770ec3",
+              "meta": {
+                "organization": {
+                  "name": "National Academy of Sciences",
+                  "location": "Washington D.C., District of Columbia, United States"
+                }
+              },
+              "meetingId": "39eed87064914129ba8da6c491e6502e",
+              "id": "693866156bfd4d938a51373a2fd8ef0c"
+            },
+            {
+              "organizationId": "e53641f275f15469a1b19a8980e09171",
+              "meta": {
+                "organization": {
+                  "name": "National Aeronautics and Space Administration",
+                  "location": "Washington, United States"
+                }
+              },
+              "meetingId": "39eed87064914129ba8da6c491e6502e",
+              "id": "40d0de5b77b242bc91b08da6148fb77b"
+            }
+          ],
+          "name": "Conference on Nutrition in Space and Related Waste Problems",
+          "location": "Tampa, FL",
+          "id": "39eed87064914129ba8da6c491e6502e",
+          "startDate": "1964-04-27T04:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 19650008971,
+          "publisher": "National Aeronautics and Space Administration",
+          "id": "5f016ac90b0e404ca16caa4c9a2042cc",
+          "publicationName": "Conference on Nutrition in Space and Related Waste Problems",
+          "publicationDate": "1964-01-01T05:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 19650008965,
+          "type": "ANALYTIC_PRIMARY",
+          "title": "Conference on Nutrition in Space and Related Waste Problems",
+          "stiType": "SPECIAL_PUBLICATION",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 19650008965,
+          "type": "ANALYTIC_PRIMARY",
+          "title": "Conference on Nutrition in Space and Related Waste Problems",
+          "stiType": "SPECIAL_PUBLICATION",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [],
+      "downloadsAvailable": true,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  },
+  {
+    "id": "20220019344",
+    "source": "NTRS",
+    "title": "Recommendations for Developing Space Suit Integrated Food Systems and Delivering Nutrition Before, During, and After Lunar EVA",
+    "summary": "The concept of providing hydration and nutrition during extravehicular activity (EVA) is nearly as\nold as the space program itself. Astronauts currently have access to 32 ounces of water through\na disposable in-suit drink bag (DIDB) while they are confined to their space suit. During the\nApollo program, methods for providing food/nutrition to crewmembers in space suits were\nincluded as contingency solutions (1) but were eventually abandoned. The main reasons that\nprovision of in-suit nutrition beyond water was discontinued after Apollo were the complicated\nengineering requirements, the additional mass and volume that was required for the applicable\nfood formulations, hardware needed for a suit-specialized food system, and because the\nperceived need for in-suit nutrition during EVAs was not sufficient during the Space Shuttle and\nthe International Space Station (ISS) eras. A custom-made 165-kcal fruit bar was fitted into the\nEVA suit during the Space Shuttle program, but crewmembers rarely consumed it during the\nEVA and rather chose to consume it before or after suited activities (2). Since 2011, between 4\nand 13 EVAs have been conducted from the ISS each year, with durations ranging from 1:32 to\n8:17 hours (https://www.nasa.gov/mission_pages/station/spacewalks ). It has been acceptable for the\ncrewmembers to schedule food intake around these relatively infrequent suited activities.\nBecause upcoming Artemis missions will include nominal 8-hour lunar exploration EVAs that are\nexpected to increase in frequency to several (4 to 5) sorties per week (3), the desire for an in-suit nutrition system has increased. In preparation for these missions, requirements to provide\nin-suit nutrition has been outlined in the most recent NASA Human Spaceflight Standards\ndocuments (4). Establishing general recommendations for in-suit nutrition systems precedes the\nselection of a lunar EVA pressure suit system. The current document is intended to define the\nrationale for nutrition to support EVA (whether in-suit or from the pantry in the habitat),\ndocument the requirements, constraints, and crewmember preferences, and recommend\nnecessary next steps for developing an in-suit EVA nutrition system.\n\nAssessments presented in this report include a review of commercial off-the-shelf (COTS) food\nproducts as potential in-suit formulations, a comparison of conceptual designs for delivering\nnutrition to a crewmember while confined to a space suit, an evaluation of space suit volume\nconstraints for the placement of in-suit nutrition systems, and feedback from astronauts\nregarding preferences for nutrition support during EVA. Based on these assessments,\nrecommendations were formulated that can be used to help develop a method to deliver\nnutrition safely and acceptably to a crewmember while they are confined to a space suit for an\nEVA duration of up to 8 hours, and a total time in the suit of up to 12 hours.",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 179.34766
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "MAY_INCLUDE_COPYRIGHT_MATERIAL",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 20220019344,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "a3c19f7ff61d487a83262fd1b6d730f5"
+      },
+      "subjectCategories": [
+        "Man/System Technology and Life Support"
+      ],
+      "keywords": [
+        "space suit",
+        "nutrition",
+        "hydration",
+        "food",
+        "exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20220019344,
+        "ear": "NO",
+        "id": "b0c4b3bf9da546dcb59b5234b9d6e7a2",
+        "itar": "NO"
+      },
+      "distributionDate": "2023-01-19T06:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "10449.2.03.07.A7.1847",
+          "submissionId": 20220019344,
+          "id": "5dedd517d0c14cc1964d7a2d4dfb7755",
+          "type": "TASK"
+        }
+      ],
+      "stiType": "TECHNICAL_PUBLICATION",
+      "distribution": "PUBLIC",
+      "submittedDate": "2023-01-04T16:07:51.8250560+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "e19468319c7a500681f6c155f5347f25",
+          "sequence": 0,
+          "submissionId": 20220019344,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "E Lichar Dillon"
+            },
+            "organization": {
+              "name": "The University of Texas Medical Branch at Galveston",
+              "location": "Galveston, Texas, United States"
+            }
+          },
+          "id": "224577c7d60f48a89bf2f829ee15ebea",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "94b3a3048f4b4598891944abe5e0d86d"
+        },
+        {
+          "organizationId": "7817929533d75e299e2488d054c1109f",
+          "sequence": 1,
+          "submissionId": 20220019344,
+          "meta": {
+            "author": {
+              "name": "Brent Ruby"
+            },
+            "organization": {
+              "name": "University of Montana",
+              "location": "Missoula, Montana, United States"
+            }
+          },
+          "id": "93f9b671095b433fb82d450a0b716c35",
+          "userType": "OTHER",
+          "userId": "c0f7a15bf04144a9aeab38f5d36ba49d"
+        },
+        {
+          "organizationId": "30956d12b05c56f99ba04cefabd82400",
+          "sequence": 2,
+          "submissionId": 20220019344,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Jason Norcross"
+            },
+            "organization": {
+              "name": "KBR (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "840f0af82928495db30d354ae49d89e9",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "3345addf91054a269a5d9c15495aff5c"
+        },
+        {
+          "organizationId": "30956d12b05c56f99ba04cefabd82400",
+          "sequence": 3,
+          "submissionId": 20220019344,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Grant W. Harman"
+            },
+            "organization": {
+              "name": "KBR (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "32131d505881437788525714b069e165",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "8264864e10ff497a98486f9d766e5881"
+        },
+        {
+          "organizationId": "e19468319c7a500681f6c155f5347f25",
+          "sequence": 4,
+          "submissionId": 20220019344,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Sara R Zwart"
+            },
+            "organization": {
+              "name": "The University of Texas Medical Branch at Galveston",
+              "location": "Galveston, Texas, United States"
+            }
+          },
+          "id": "6e78cd254e5e4868bf038eb2d91dc9c2",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "32347ecd9f9d4d1490ff0bdef4344635"
+        },
+        {
+          "organizationId": "30956d12b05c56f99ba04cefabd82400",
+          "sequence": 5,
+          "submissionId": 20220019344,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Holly Dlouhy"
+            },
+            "organization": {
+              "name": "KBR (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "88c904d86a8d4bda9428a39d1b3b4e72",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "a4602a07744a42108e1af9437cdc4453"
+        },
+        {
+          "organizationId": "40e292dade5754e3979554f9c3646d0e",
+          "sequence": 6,
+          "submissionId": 20220019344,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Takiyah Sirmons"
+            },
+            "organization": {
+              "name": "Leidos (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "db1b7595f3834b05b0092c7c8075c623",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "3e8e68e32fba485eaffb3ba76a3d8fcf"
+        },
+        {
+          "organizationId": "30956d12b05c56f99ba04cefabd82400",
+          "sequence": 7,
+          "submissionId": 20220019344,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Ryan Z Amick"
+            },
+            "organization": {
+              "name": "KBR (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "25d71097fcee4d42a50419a1365cc295",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "cf771cad98e940168e1852f2e4100023"
+        },
+        {
+          "organizationId": "30956d12b05c56f99ba04cefabd82400",
+          "sequence": 8,
+          "submissionId": 20220019344,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Tymon Kukla"
+            },
+            "organization": {
+              "name": "KBR (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "ae06950aeddf4635b6e3960a50696b48",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "cf641263274340e7a73dabf0f5602fae"
+        },
+        {
+          "organizationId": "40e292dade5754e3979554f9c3646d0e",
+          "sequence": 9,
+          "submissionId": 20220019344,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Han Kim"
+            },
+            "organization": {
+              "name": "Leidos (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "fb19b2249faf4aaf99ba3e15280a5684",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "4d499fdaa17647fea2a2ba3b30854a66"
+        },
+        {
+          "organizationId": "30956d12b05c56f99ba04cefabd82400",
+          "sequence": 10,
+          "submissionId": 20220019344,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Yaritza Hernandez"
+            },
+            "organization": {
+              "name": "KBR (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "f69c766a7da544e1aa8f4d8e2c07e0c5",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "25921fc912934d18873e36ab2f30815b"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 11,
+          "submissionId": 20220019344,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Grace L Douglas"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "29aa97d001be4e128860a71ba7c6a46f",
+          "userType": "CIVIL",
+          "userId": "7041ff2665a44cb38ab28eb64e803571"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 12,
+          "submissionId": 20220019344,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Scott M Smith"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "277ca9f2cc4c458b952933c17369eb14",
+          "userType": "CIVIL",
+          "userId": "f057f3c2fe8d4b41a417c87083393ac6"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 13,
+          "submissionId": 20220019344,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Andrew F Abercromby"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "3462fc17e93544d9b3f178b8d37e883d",
+          "userType": "CIVIL",
+          "userId": "9a0d72d47391496da296b70bf62e4726"
+        }
+      ],
+      "stiTypeDetails": "Technical Publication (TP)",
+      "technicalReviewType": "SINGLE_EXPERT",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "created": "2023-01-03T22:35:39.6860230+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": true,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20220019344,
+        "id": "90e18363df20443e928067d09fe9708d"
+      },
+      "publications": [
+        {
+          "submissionId": 20220019344,
+          "id": "5fc87b386f93498585a51e7763e8b126",
+          "publicationDate": "2022-12-31T06:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "Recommendations_for_In-Suit_Nutrition_2022-12-31_STRIVES.pdf",
+          "notes": "No limitations",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20220019344/downloads/Recommendations_for_In-Suit_Nutrition_2022-12-31_STRIVES.pdf",
+            "pdf": "/api/citations/20220019344/downloads/Recommendations_for_In-Suit_Nutrition_2022-12-31_STRIVES.pdf",
+            "fulltext": "/api/citations/20220019344/downloads/Recommendations_for_In-Suit_Nutrition_2022-12-31_STRIVES.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  },
+  {
+    "id": "20040088083",
+    "source": "NTRS",
+    "title": "History of Nutrition in Space Flight: Overview",
+    "summary": "Major accomplishments in nutritional sciences for support of human space travel have occurred over the past 40 y. This article reviews these accomplishments, beginning with the early Gemini program and continuing through the impressive results from the first space station Skylab program that focused on life sciences research, the Russian contributions through the Mir space station, the US Shuttle life sciences research, and the emerging International Space Station missions. Nutrition is affected by environmental conditions such as radiation, temperature, and atmospheric pressures, and these are reviewed. Nutrition with respect to space flight is closely interconnected with other life sciences research disciplines including the study of hematology, immunology, as well as neurosensory, cardiovascular, gastrointestinal, circadian rhythms, and musculoskeletal physiology. These relationships are reviewed in reference to the overall history of nutritional science in human space flight. Cumulative nutritional research over the past four decades has resulted in the current nutritional requirements for astronauts. Space-flight nutritional recommendations are presented along with the critical path road map that outlines the research needed for future development of nutritional requirements.",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 178.54031
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "submissionId": 20040088083,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "ea8f6b3efad741dfba6287a7f93e1d98",
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false
+      },
+      "subjectCategories": [
+        "Aerospace Medicine"
+      ],
+      "keywords": [
+        "Circadian rhythms",
+        "Hematology",
+        "Immunology",
+        "Neurosensory",
+        "Space flight",
+        "Microgravity",
+        "Gastrointestinal",
+        "Cardiovascular",
+        "Radiation",
+        "Musculoskeletal physiology",
+        "Space Flight/history",
+        "Nutrition",
+        "Aerospace Medicine/history",
+        "Adaptation, Physiological",
+        "History of Medicine, 20th Cent",
+        "History of Medicine, 21st Cent",
+        "USSR",
+        "United States",
+        "Human",
+        "Cosmic Radiation",
+        "Nutritional Requirements",
+        "Gravitation",
+        "Biological Sciences/history",
+        "International Cooperation/history"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "eccnNumber": "",
+        "submissionId": 20040088083,
+        "ear": "NO",
+        "id": "9951fa98ba0b4856a3cd98d9a269ccc0",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-12-12T16:41:58.6000000+00:00",
+      "otherReportNumbers": [
+        "E-ISSN: 1873-1244",
+        "ISSN: 0899-9007"
+      ],
+      "stiType": "REPRINT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-21T20:03:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20040088083,
+          "meta": {
+            "author": {
+              "name": "Lane, Helen W."
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "d0f0a848b25e4aaba7f671bd5602e754"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20040088083,
+          "meta": {
+            "author": {
+              "name": "Feeback, Daniel L."
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "fe6782cfb0fe42dc8eaced58ea654d08"
+        }
+      ],
+      "stiTypeDetails": "Reprint (Version printed in journal)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "sourceIdentifiers": [
+        {
+          "number": "doi:10.1016/S0899-9007(02)00946-2",
+          "submissionId": 20040088083,
+          "id": "716706fbcc134c28891a00f12b88ddd7",
+          "type": "DOI"
+        },
+        {
+          "submissionId": 20040088083,
+          "id": "392a5b81d69d48f9bdbee8b0904ffd0b",
+          "descriptor": "doi:10.1016/S0899-9007(02)00946-2"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-21T20:03:00.0000000+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "publications": [
+        {
+          "volume": "18",
+          "submissionId": 20040088083,
+          "issue": "10",
+          "issn": "0899-9007",
+          "publisher": "Elsevier",
+          "eissn": "1873-1244",
+          "id": "7d62ce09c7034d149efad0320d095b35",
+          "publicationName": "Nutrition",
+          "publicationDate": "2002-09-26T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  },
+  {
+    "id": "20040141474",
+    "source": "NTRS",
+    "title": "Food and Nutrition in Space: Application to Human Health",
+    "summary": "The National Aeronautics and Space Administration begins the new millennium with the hope of expanding human space exploration beyond Earth's orbit. These extended-duration missions (3-5 years) require an in-depth assessment of the critical risks (referred to as \"show stoppers\") to humans when exposed to the remote environment and reduced gravity conditions for such long periods of time. Food, and the nutrition it provides, is paramount to crew health. For short-duration spaceflight (30 days), the nutrient requirements pertaining to physiological adaptations are likely to be satisfied without significant impact on crew performance or health. However, prolonged exposure to reduced gravity, or microgravity, and isolation may alter human nutrient requirements as well as increase the psychosocial role of food/meals in daily activities. An outline of critical questions and related research needs in the area of food and nutrition has been drafted (1) at NASA JSC with the help of the National Space Biomedical Research Institute (http://www.nsbri.org). The research areas outlined in this plan will directly impact the success of extended-duration human space missions. Findings from this research will have direct applications to human health issues faced here on Earth.",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 177.53085
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "disclosedToPublic": false,
+        "submissionId": 20040141474,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "c9d155b78d5c4c1c9f38467b1ad9b46b",
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false
+      },
+      "subjectCategories": [
+        "Life Sciences (General)"
+      ],
+      "keywords": [
+        "Models, Biological",
+        "Risk Factors",
+        "United States National Aeronautics and Space Administration",
+        "Time Factors",
+        "Weightlessness/adverse effects",
+        "Human",
+        "United States",
+        "Health Status",
+        "Space Flight",
+        "Nutrition",
+        "Food",
+        "STS Shuttle Project",
+        "short duration",
+        "Review",
+        "NASA Center JSC",
+        "manned",
+        "Review, Tutorial",
+        "Flight Experiment",
+        "NASA Discipline Regulatory Physiology"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20040141474,
+        "ear": "NO",
+        "id": "b72b94db3cff4ccf9c06dad3d0bc3a59",
+        "itar": "NO"
+      },
+      "distributionDate": "2004-11-09T05:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "ISSN: 0899-9007"
+      ],
+      "stiType": "ACCEPTED_MANUSCRIPT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-22T03:16:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 0,
+          "submissionId": 20040141474,
+          "meta": {
+            "author": {
+              "name": "Yael Vodovotz"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "44c30c75a8534f7fb33273107c8ce88f",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 1,
+          "submissionId": 20040141474,
+          "meta": {
+            "author": {
+              "name": "Scott M. Smith"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "23b7d5efdc0b4ce8b07162b3539ecf1c",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 2,
+          "submissionId": 20040141474,
+          "meta": {
+            "author": {
+              "name": "Helen W. Lane"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "5713691897554733b97140b17fa8fec6",
+          "userType": "OTHER"
+        }
+      ],
+      "stiTypeDetails": "Accepted Manuscript (Version with final changes)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "sourceIdentifiers": [
+        {
+          "number": "doi:10.1016/S0899-9007(00)00311-7",
+          "submissionId": 20040141474,
+          "id": "916575faaf1f4db79be46c1cfd0026c8",
+          "descriptor": "Food and Nutrition in Space: Application to Human Health",
+          "type": "DOI"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-22T03:16:00.0000000+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20040141474,
+        "id": "9a50895a24f343b9abd789072141b988"
+      },
+      "publications": [
+        {
+          "volume": "16",
+          "submissionId": 20040141474,
+          "issue": "7-8",
+          "issn": "0899-9007",
+          "publisher": "Elsevier",
+          "id": "ff4b767e68594729a02c0085b8357723",
+          "publicationName": "Food and nutrition in space: application to human health",
+          "publicationDate": "2000-07-01T00:00:00.0000000+00:00",
+          "issuePublicationDate": "2000-07-01T04:00:00.0000000+00:00",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0899900700003117?via%3Dihub",
+          "doi": "10.1016/S0899-9007(00)00311-7"
+        }
+      ],
+      "status": "CURATED",
+      "redistributedDate": "2022-05-03T19:39:56.9535970",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": true,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  },
+  {
+    "id": "19650008966",
+    "source": "NTRS",
+    "title": "Nutrition-waste complex - a pressing problem in manned space exploration",
+    "summary": "Handling of nutrition-waste complex in manned space exploration",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 176.06915
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "submissionId": 19650008966,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "9d0758adba444f7da7a1943836b7a1d9",
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false
+      },
+      "subjectCategories": [
+        "Biosciences"
+      ],
+      "keywords": [
+        "NUTRITION",
+        "WASTE",
+        "HANDLING",
+        "SPACE EXPLORATION"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 19650008966,
+        "ear": "NO",
+        "id": "402f3f5fa511406dba97871f45284264",
+        "itar": "NO"
+      },
+      "distributionDate": "2011-09-08T00:00:00.0000000+00:00",
+      "stiType": "OTHER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-02T15:48:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 19650008966,
+          "meta": {
+            "author": {
+              "name": "Del Duca, M. G."
+            },
+            "organization": {}
+          },
+          "id": "334058f2e6d84851b00c63c2cb9301bf"
+        }
+      ],
+      "stiTypeDetails": "Other",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": "65N18567"
+      },
+      "created": "2013-08-02T15:48:00.0000000+00:00",
+      "center": {
+        "code": "CDMS",
+        "name": "Legacy CDMS",
+        "id": "092d6e0881874968859b972d39a888dc"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "publications": [
+        {
+          "submissionId": 19650008966,
+          "id": "948c80d329774a0fbb7f05a19bc26bb4",
+          "publicationDate": "1964-01-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 19650008965,
+          "type": "ANALYTIC_PRIMARY",
+          "title": "Conference on Nutrition in Space and Related Waste Problems",
+          "stiType": "SPECIAL_PUBLICATION",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 19650008965,
+          "type": "ANALYTIC_PRIMARY",
+          "title": "Conference on Nutrition in Space and Related Waste Problems",
+          "stiType": "SPECIAL_PUBLICATION",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [],
+      "downloadsAvailable": true,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  },
+  {
+    "id": "20230001140",
+    "source": "NTRS",
+    "title": "Recommendations for Developing Space Suit Integrated Food Systems and Delivering Nutrition Before, During, and After Lunar EVA",
+    "summary": "INTRODUCTION\nArtemis missions will include a higher tempo and frequency of extravehicular activities (EVAs) than any previous space program. Because of the physical demands expected from the crew, future space suit designs are required to incorporate nutritional support to the astronauts during lunar surface EVAs lasting longer than 4 hours. The purpose of this project was to provide recommendations to aid the development of an in-suit system that can adequately, safely, and acceptably deliver nutrition to a crewmember while confined to a space suit during EVA.\n\nMETHODS\nPhysiological, logistical, and engineering aspects of potential in-suit nutrition approaches were assessed through literature reviews, assessments of commercial off the shelf (COTS) foods, suit volumetric modeling, and feedback from subject matter experts and crewmembers. Key driving factors in the development of in-suit nutrition requirements included how much and what type of nutrition should be included, what food formulations are appropriate and safe, what are inherent limitations of space suits, what are the potential risks to the crewmember in the suit, and what practices and preferences from astronauts should be considered. Design references were conceptualized and assessed for strengths and limitations as potential in-suit nutrition systems for surface EVA.\n\nRESULTS\nAcute exogenous energy demands vary greatly depending on activity intensity and duration, and partial energy replenishment (i.e., 60\u201380 kcal\u2219hr-1 of EVA, or 460\u2013680 kcal for EVAs lasting up to 8 hours) during activities could improve performance, safety, and recovery. COTS foods capable of providing these energy requirements exist; however, no COTS foods have been identified that pass NASA flight standards for microbiological safety and stability. In-suit nutrition delivery design references that were considered included in-suit concepts for a prefilled drink bag, a hydratable drink bag, and a solid food stick. In addition, a helmet feed port concept was considered for use with drink bags external to the suit. Volumetric models of the in-suit drink bag concepts, based on xEMU dimensions, indicate challenges of fitting formulations > 200 ml (equating to approximately 200 kcal). Astronaut feedback on the four concepts indicated that despite some individual preferences for inclusion of solid foods and helmet port designs, the prefilled drink bag concept was the most preferred. A prefilled drink bag can only be used if food safety and stability can be ensured, possibly requiring advancements in food delivery hardware.\n\nCONCLUSION\nThe ability to meet the increased need for nutrition during surface EVAs through provision of nutrients in the suited configuration would benefit overall crew health, performance, and morale, and thus increase the likelihood of mission success. It is recommended that in-suit nutrition capabilities provide at least 400\u2013600 kcal within the suit during EVAs lasting > 4 hours and that suit designs include a dedicated volume for food grade nutrition systems. The developed food system should either allow for 1) installation of prefilled (sealed sterile) liquid nutrition in the suit and provide a mechanism to break the seal at the time that consumption is desired or 2) demonstrate that the unsealed food product shelf life allows for safe consumption after at least 12 hours of EVA.",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 170.48534
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "MAY_INCLUDE_COPYRIGHT_MATERIAL",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 20230001140,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "c8f6a65472e64b3b837f3c6defd866e3"
+      },
+      "subjectCategories": [
+        "Man/System Technology and Life Support"
+      ],
+      "keywords": [
+        "space suit",
+        "nutrition",
+        "hydration",
+        "food",
+        "exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20230001140,
+        "ear": "NO",
+        "id": "fa99a32f267f4e24a4ef8b93a728ec79",
+        "itar": "NO"
+      },
+      "distributionDate": "2023-02-07T06:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "10449.2.03.07.A7.1847",
+          "submissionId": 20230001140,
+          "id": "f2835c1945cf4475af853da76713f47c",
+          "type": "PROJECT"
+        }
+      ],
+      "stiType": "PRESENTATION",
+      "distribution": "PUBLIC",
+      "submittedDate": "2023-01-24T15:26:57.8294300+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "e19468319c7a500681f6c155f5347f25",
+          "sequence": 0,
+          "submissionId": 20230001140,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Lichar Dillon"
+            },
+            "organization": {
+              "name": "The University of Texas Medical Branch at Galveston",
+              "location": "Galveston, Texas, United States"
+            }
+          },
+          "id": "1c59c38ce4d44dcaa193cb63c00af473",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "94b3a3048f4b4598891944abe5e0d86d"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 1,
+          "submissionId": 20230001140,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Scott M. Smith"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "3afc60c782da4646a618715ddd8e999b",
+          "userType": "CIVIL",
+          "userId": "f057f3c2fe8d4b41a417c87083393ac6"
+        },
+        {
+          "organizationId": "e19468319c7a500681f6c155f5347f25",
+          "sequence": 2,
+          "submissionId": 20230001140,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Sara Zwart"
+            },
+            "organization": {
+              "name": "The University of Texas Medical Branch at Galveston",
+              "location": "Galveston, Texas, United States"
+            }
+          },
+          "id": "0c2ef7e3377343d4886470f35d0a8f78",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "32347ecd9f9d4d1490ff0bdef4344635"
+        },
+        {
+          "organizationId": "30956d12b05c56f99ba04cefabd82400",
+          "sequence": 3,
+          "submissionId": 20230001140,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Holly Dlouhy"
+            },
+            "organization": {
+              "name": "KBR (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "14da02da54e24f1bb0dcf74cbf6a0819",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "a4602a07744a42108e1af9437cdc4453"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 4,
+          "submissionId": 20230001140,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Grace Douglas"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "b00871c6a11d4e998c65d5aa649b1545",
+          "userType": "CIVIL",
+          "userId": "7041ff2665a44cb38ab28eb64e803571"
+        },
+        {
+          "organizationId": "40e292dade5754e3979554f9c3646d0e",
+          "sequence": 5,
+          "submissionId": 20230001140,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Takiyah Sirmons"
+            },
+            "organization": {
+              "name": "Leidos (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "f1e6745addaf4d328a1a55ce1dabda22",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "3e8e68e32fba485eaffb3ba76a3d8fcf"
+        },
+        {
+          "organizationId": "30956d12b05c56f99ba04cefabd82400",
+          "sequence": 6,
+          "submissionId": 20230001140,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Jason Norcross"
+            },
+            "organization": {
+              "name": "KBR (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "7685d187f6274dc4b9d224a74c807ce9",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "3345addf91054a269a5d9c15495aff5c"
+        },
+        {
+          "organizationId": "30956d12b05c56f99ba04cefabd82400",
+          "sequence": 7,
+          "submissionId": 20230001140,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Grant Harman"
+            },
+            "organization": {
+              "name": "KBR (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "d94342c8f2f648fa8856018221ac4345",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "8264864e10ff497a98486f9d766e5881"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 8,
+          "submissionId": 20230001140,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Andrew Abercromby"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "0307cbaf2a0c45ecb331e81fd049040f",
+          "userType": "CIVIL",
+          "userId": "9a0d72d47391496da296b70bf62e4726"
+        },
+        {
+          "organizationId": "7817929533d75e299e2488d054c1109f",
+          "sequence": 9,
+          "submissionId": 20230001140,
+          "meta": {
+            "author": {
+              "name": "Brent Ruby"
+            },
+            "organization": {
+              "name": "University of Montana",
+              "location": "Missoula, Montana, United States"
+            }
+          },
+          "id": "ad80160cb9d940709fa8d242d80505b3",
+          "userType": "OTHER",
+          "userId": "c0f7a15bf04144a9aeab38f5d36ba49d"
+        },
+        {
+          "organizationId": "40e292dade5754e3979554f9c3646d0e",
+          "sequence": 10,
+          "submissionId": 20230001140,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Han Kim"
+            },
+            "organization": {
+              "name": "Leidos (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "cd7aff59444048c2a90c4ea8c6537828",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "4d499fdaa17647fea2a2ba3b30854a66"
+        },
+        {
+          "organizationId": "30956d12b05c56f99ba04cefabd82400",
+          "sequence": 11,
+          "submissionId": 20230001140,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Yaritza Hernandez"
+            },
+            "organization": {
+              "name": "KBR (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "93248013141442c0a1bd4229d1de3a3d",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "25921fc912934d18873e36ab2f30815b"
+        },
+        {
+          "organizationId": "30956d12b05c56f99ba04cefabd82400",
+          "sequence": 12,
+          "submissionId": 20230001140,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Ryan Z Amick"
+            },
+            "organization": {
+              "name": "KBR (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "5f168b84372942988cac08a7864b3f14",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "cf771cad98e940168e1852f2e4100023"
+        },
+        {
+          "organizationId": "30956d12b05c56f99ba04cefabd82400",
+          "sequence": 13,
+          "submissionId": 20230001140,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Tymon Kukla"
+            },
+            "organization": {
+              "name": "KBR (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "1c6abdbad2dc46ad9fd2782b94ec7ca3",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "cf641263274340e7a73dabf0f5602fae"
+        }
+      ],
+      "stiTypeDetails": "Presentation",
+      "technicalReviewType": "SINGLE_EXPERT",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "created": "2023-01-24T14:49:22.6840590+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20230001140,
+        "id": "bbc011b05f2c4922a4f015a7798c4fcf"
+      },
+      "meetings": [
+        {
+          "country": "US",
+          "submissionId": 20230001140,
+          "endDate": "2023-02-09T06:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "e53641f275f15469a1b19a8980e09171",
+              "meta": {
+                "organization": {
+                  "name": "National Aeronautics and Space Administration",
+                  "location": "Washington D.C., District of Columbia, United States"
+                }
+              },
+              "meetingId": "19035e4e395a4e0baa89d195d6946e0e",
+              "id": "3f524879046b499f90f25e32fb33fdef"
+            }
+          ],
+          "name": "2023 Human Research Program (HRP) Investigators\u2019 Workshop (IWS)",
+          "location": "Galveston, TX",
+          "id": "19035e4e395a4e0baa89d195d6946e0e",
+          "url": "https://web.cvent.com/event/08d8f955-514e-4e10-b860-bd009811ec13/summary",
+          "startDate": "2023-02-07T06:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "In Suit Nutrition Presentation HRPIWS 2023 STRIVES.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20230001140/downloads/In%20Suit%20Nutrition%20Presentation%20HRPIWS%202023%20STRIVES.pdf",
+            "pdf": "/api/citations/20230001140/downloads/In%20Suit%20Nutrition%20Presentation%20HRPIWS%202023%20STRIVES.pdf",
+            "fulltext": "/api/citations/20230001140/downloads/In%20Suit%20Nutrition%20Presentation%20HRPIWS%202023%20STRIVES.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  },
+  {
+    "id": "19850016432",
+    "source": "NTRS",
+    "title": "Nutrition in Space Flight:  Some Thoughts",
+    "summary": "Space flight causes physiological changes related to microgravity and on which nutrition has a bearing. Examples are: muscle atrophy-protein; bone atrophy-calcium; phosphorus, and vitamin D; space sickness-fat; cardiovascular deconditioning-sodium; water, and potassium. The physiological changes are discussed which relate to living in space.",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 159.24591
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "submissionId": 19850016432,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "c18fd090bdbb4514822d763c52ec930f",
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false
+      },
+      "subjectCategories": [
+        "Man/System Technology And Life Support"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 19850016432,
+        "ear": "NO",
+        "id": "ac46141658024447ac27d3c072043e51",
+        "itar": "NO"
+      },
+      "distributionDate": "2014-08-20T10:16:32.9730000+00:00",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-12T15:42:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 19850016432,
+          "meta": {
+            "author": {
+              "name": "Johnson, P. C., Jr."
+            },
+            "organization": {
+              "name": "NASA Lyndon B. Johnson Space Center",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "2921d4eccc1940dcadb186ecb5f82745"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": "85N24743"
+      },
+      "created": "2013-08-12T15:42:00.0000000+00:00",
+      "center": {
+        "code": "CDMS",
+        "name": "Legacy CDMS",
+        "id": "092d6e0881874968859b972d39a888dc"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "publications": [
+        {
+          "submissionId": 19850016432,
+          "id": "cd455259c5ec444c899687450a59ee45",
+          "publicationName": "Food Serv. and Nutr. for the Space Shuttle",
+          "publicationDate": "1985-04-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 19850016422,
+          "type": "ANALYTIC_PRIMARY",
+          "title": "Food Service and Nutrition for the Space Station",
+          "stiType": "CONFERENCE_PUBLICATION",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 19850016422,
+          "type": "ANALYTIC_PRIMARY",
+          "title": "Food Service and Nutrition for the Space Station",
+          "stiType": "CONFERENCE_PUBLICATION",
+          "distribution": "PUBLIC",
+          "accessionNumber": "N85-24734 through N85-24748",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [],
+      "downloadsAvailable": true,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  }
+]

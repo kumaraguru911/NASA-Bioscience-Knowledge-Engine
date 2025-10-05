@@ -1,0 +1,1216 @@
+[
+  {
+    "id": "20190026589",
+    "source": "NTRS",
+    "title": "MOA-2012-BLG-505Lb: A Super-Earth-Mass Planet that Probably Resides in the Galactic Bulge",
+    "summary": "We report the discovery of a super-Earth-mass planet in the microlensing event MOA-2012-BLG-505. This event has the second shortest event timescale of t(sub E) = 10 \u00b1 1 days where the observed data show evidence of a planetary companion. Our 15 minute high cadence survey observation schedule revealed the short subtle planetary signature. The system shows the well known close/wide degeneracy. The planet/host-star mass ratio is q = 2.1 \u00d7 10(exp \u22124) and the projected separation normalized by the Einstein radius is s = 1.1 or 0.9 for the wide and close solutions, respectively. We estimate the physical parameters of the system by using a Bayesian analysis and \ufb01nd that the lens consists of a super-Earth with a mass of 6.7(sup +10.7)(sub -3.6) M\ua69b orbiting around a brown dwarf or late-M-dwarf host with a mass of 0.10(sup +0.16)(sub -0.05) M\ua669 with a projected star\u2013planet separation of 0.9(sup +0.3)(sub -0.2) au. The system is at a distance of 7.2 \u00b1 1.1 kpc, i.e., it is likely to be in the Galactic bulge. The small angular Einstein radius (\u03b8(sub E) = 0.12 \u00b1 0.02 mas) and short event timescale are typical for a low-mass lens in the Galactic bulge. Such low-mass planetary systems in the Bulge are rare because the detection ef\ufb01ciency of planets in short microlensing events is relatively low. This discovery may suggest that such low-mass planetary systems are abundant in the Bulge and currently ongoing high cadence survey programs will detect more such events and may reveal an abundance of such planetary systems. ",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 116.2882
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "submissionId": 20190026589,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "9026998e7b7347c5af4f995aead28fa3",
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false
+      },
+      "subjectCategories": [
+        "Astrophysics",
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "super-Earth-mass planet"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "eccnNumber": "",
+        "submissionId": 20190026589,
+        "ear": "NO",
+        "id": "ee6667cc1700476ea4485e1da7a8975f",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-06-25T11:29:22.3600000+00:00",
+      "otherReportNumbers": [
+        "GSFC-E-DAA-TN64726",
+        "Report Number: GSFC-E-DAA-TN64726",
+        "ISSN: 0004-637X",
+        "E-ISSN: 1538-4357"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "80GSFC17M0002",
+          "submissionId": 20190026589,
+          "id": "09dd65f12c6746c39b28c2fe0936399d",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "stiType": "REPRINT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2019-06-24T09:32:22.2530000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "name": "Nagakane, M."
+            },
+            "organization": {
+              "name": "Osaka University",
+              "location": "Osaka, Japan"
+            }
+          },
+          "id": "5ee9e7b21b164c489d79efc7c396705f"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "name": "Sumi, T."
+            },
+            "organization": {
+              "name": "Osaka University",
+              "location": "Osaka, Japan"
+            }
+          },
+          "id": "f6712236c8d24787adf4464324cb59c4"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0003-2302-9562",
+              "name": "Koshimoto, N."
+            },
+            "organization": {
+              "name": "Osaka University",
+              "location": "Osaka, Japan"
+            }
+          },
+          "id": "2a46879e80e243f0ba23db06471c9557"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0001-8043-8413",
+              "name": "Bennett, D. P."
+            },
+            "organization": {
+              "name": "Notre Dame Univ.",
+              "location": "Notre Dame, IN, United States"
+            }
+          },
+          "id": "5e56decc404f434db7875f9414c69272"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "name": "Bond, I. A."
+            },
+            "organization": {
+              "name": "Massey University",
+              "location": "Auckland (Albany), New Zealand"
+            }
+          },
+          "id": "9af43a66089545158a5a808a3af88d6e"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0001-5069-319X",
+              "name": "Rattenbury, N."
+            },
+            "organization": {
+              "name": "University of Auckland",
+              "location": "Auckland, New Zealand"
+            }
+          },
+          "id": "e6a8818e7eec42b6bf007a83fc92f405"
+        },
+        {
+          "sequence": 6,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0002-5843-9433",
+              "name": "Suzuki, D."
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD, United States"
+            }
+          },
+          "id": "88f4d6b085bb4b968fec3281a38419e8"
+        },
+        {
+          "sequence": 7,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "name": "Abe, F."
+            },
+            "organization": {
+              "name": "Nagoya University",
+              "location": "Nagoya, Japan"
+            }
+          },
+          "id": "8125bd147a9243b0a7957e3d6bd6e69f"
+        },
+        {
+          "sequence": 8,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "name": "Asakura, Y."
+            },
+            "organization": {
+              "name": "Nagoya University",
+              "location": "Nagoya, Japan"
+            }
+          },
+          "id": "e2a3fe6a22d449f6b8ed80689467b041"
+        },
+        {
+          "sequence": 9,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "name": "Barry, R."
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD, United States"
+            }
+          },
+          "id": "87b7e3ba8fa4463294ce996de6a890c4"
+        },
+        {
+          "sequence": 10,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "name": "Bhattacharya, A."
+            },
+            "organization": {
+              "name": "Notre Dame Univ.",
+              "location": "Notre Dame, IN, United States"
+            }
+          },
+          "id": "2db881706ea54b57bcdf008d5dd4859a"
+        },
+        {
+          "sequence": 11,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "name": "Donachie, M."
+            },
+            "organization": {
+              "name": "University of Auckland",
+              "location": "Auckland, New Zealand"
+            }
+          },
+          "id": "dc0d88a301dc44b99268ce13f77b2dc1"
+        },
+        {
+          "sequence": 12,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0002-4909-5763",
+              "name": "Fukui, A."
+            },
+            "organization": {
+              "name": "National Astronomical Observatory",
+              "location": "Okayama, Japan"
+            }
+          },
+          "id": "347d896a0b1d40b593b19e48fae199b1"
+        },
+        {
+          "sequence": 13,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "name": "Hirao, Y."
+            },
+            "organization": {
+              "name": "Osaka University",
+              "location": "Osaka, Japan"
+            }
+          },
+          "id": "380ade81f28548cdb3a5de9ef1361ff1"
+        },
+        {
+          "sequence": 14,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0002-8198-1968",
+              "name": "Itow, Y."
+            },
+            "organization": {
+              "name": "Nagoya University",
+              "location": "Nagoya, Japan"
+            }
+          },
+          "id": "5547aca1027d4478ab25aa413bece706"
+        },
+        {
+          "sequence": 15,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "name": "Li, M. C. A."
+            },
+            "organization": {
+              "name": "University of Auckland",
+              "location": "Auckland, New Zealand"
+            }
+          },
+          "id": "0d10322a16634106aa3029bfac4f04a0"
+        },
+        {
+          "sequence": 16,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "name": "Ling, C. H."
+            },
+            "organization": {
+              "name": "Massey University",
+              "location": "Auckland (Albany), New Zealand"
+            }
+          },
+          "id": "3f4cd3dde39c46a89970e61d66eb583f"
+        },
+        {
+          "sequence": 17,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "name": "Masuda, K."
+            },
+            "organization": {
+              "name": "Nagoya University",
+              "location": "Nagoya, Japan"
+            }
+          },
+          "id": "b4a66b1909224436b75137bcb5d5d6c3"
+        },
+        {
+          "sequence": 18,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "name": "Matsubara, Y."
+            },
+            "organization": {
+              "name": "Nagoya University",
+              "location": "Nagoya, Japan"
+            }
+          },
+          "id": "9bd72a7bb376422299cfd2d4d83dc69c"
+        },
+        {
+          "sequence": 19,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0001-7484-1222",
+              "name": "Matsuo, T."
+            },
+            "organization": {
+              "name": "Osaka University",
+              "location": "Osaka, Japan"
+            }
+          },
+          "id": "9b634128fcc84f7aa93dd592fc3c0093"
+        },
+        {
+          "sequence": 20,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "name": "Muraki, Y."
+            },
+            "organization": {
+              "name": "Nagoya University",
+              "location": "Nagoya, Japan"
+            }
+          },
+          "id": "1a6c3d166a4d4c0995bbafadae5a6d20"
+        },
+        {
+          "sequence": 21,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "name": "Ohnishi, K."
+            },
+            "organization": {
+              "name": "National Institute of Technology, Nagano College",
+              "location": "Nagano, Japan"
+            }
+          },
+          "id": "43cacbbd7903473dadb5887f477a1a2e"
+        },
+        {
+          "sequence": 22,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "name": "Ranc, C."
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD, United States"
+            }
+          },
+          "id": "2c9568f99cdd4bcca21d19eb28e0f992"
+        },
+        {
+          "sequence": 23,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "name": "Saito, To."
+            },
+            "organization": {
+              "name": "Tokyo Metropolitan College of Industrial Technology",
+              "location": "Tokyo, Japan"
+            }
+          },
+          "id": "d209ec6f323b419c8993c368465e3a56"
+        },
+        {
+          "sequence": 24,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "name": "Sharan, A."
+            },
+            "organization": {
+              "name": "University of Auckland",
+              "location": "Auckland, New Zealand"
+            }
+          },
+          "id": "32874fe4a1d0425ab1eb6b2499caa76b"
+        },
+        {
+          "sequence": 25,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "name": "Shibai, H."
+            },
+            "organization": {
+              "name": "Osaka University",
+              "location": "Osaka, Japan"
+            }
+          },
+          "id": "0d3ed550c8cf45f19b73455d08e3ab80"
+        },
+        {
+          "sequence": 26,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "name": "Sullivan, D. J."
+            },
+            "organization": {
+              "name": "Victoria Univ.",
+              "location": "Wellington, New Zealand"
+            }
+          },
+          "id": "c657361f5e1d46fabbdab597aafd39e2"
+        },
+        {
+          "sequence": 27,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "name": "Tristram, P. J."
+            },
+            "organization": {
+              "name": "Mount John University Observatory",
+              "location": "Tepako, New Zealand"
+            }
+          },
+          "id": "a39ed86591694feebbdd4eac474c9f4e"
+        },
+        {
+          "sequence": 28,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "name": "Yamada, T."
+            },
+            "organization": {
+              "name": "Osaka University",
+              "location": "Osaka, Japan"
+            }
+          },
+          "id": "230bde9bcecb4d34940ae44a8fb5509b"
+        },
+        {
+          "sequence": 29,
+          "submissionId": 20190026589,
+          "meta": {
+            "author": {
+              "name": "Yonehara, A."
+            },
+            "organization": {
+              "name": "Kyoto Sangyo University",
+              "location": "Kyoto, Japan"
+            }
+          },
+          "id": "c7dfeca8df93426fb152341e83d950b2"
+        }
+      ],
+      "stiTypeDetails": "Reprint (Version printed in journal)",
+      "technicalReviewType": "NASA_PEER_COMMITTEE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "sourceIdentifiers": [
+        {
+          "number": "doi:10.3847/1538-3881/aa74b2",
+          "submissionId": 20190026589,
+          "id": "18e32e815044499cb1a3b7e445982a95",
+          "type": "DOI"
+        },
+        {
+          "submissionId": 20190026589,
+          "id": "259a098ebf0e43e7a0c0eedb4c927d7e",
+          "descriptor": "doi:10.3847/1538-3881/aa74b2"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2019-06-24T09:32:22.2530000+00:00",
+      "center": {
+        "code": "GSFC",
+        "name": "Goddard Space Flight Center",
+        "id": "973fae00c3584b9fb4c762ae9870d0f6"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "publications": [
+        {
+          "volume": "154",
+          "submissionId": 20190026589,
+          "issue": "1",
+          "issn": "0004-637X",
+          "publisher": "American Astronomical Society",
+          "eissn": "1538-4357",
+          "id": "61ebcba8d8634b879cc5d53864649a31",
+          "publicationName": "Astrophysical Journal",
+          "publicationDate": "2017-06-30T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  },
+  {
+    "id": "20020080878",
+    "source": "NTRS",
+    "title": "Super NiCd Open-Circuit Storage and Low Earth Orbit (LEO) Life Test Evaluation",
+    "summary": "This presentation discusses Air Force tests performed on super NiCd cells to measure their performance under conditions simulating Low Earth Orbit (LEO) conditions. Super NiCd cells offer potential advantages over existing NiCd cell designs including advanced cell design with improved separator material and electrode making processes, but handling and storage requires active charging. These tests conclude that the super NiCd cells support generic Air Force qualifications for conventional LEO missions (up to five years duration) and that handling and storage may not actually require active charging as previously assumed. Topics covered include: Test Plan, Initial Characterization Tests, Open-Circuit Storage Tests, and post storage capacities.",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 101.96765
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "submissionId": 20020080878,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "700918628205472887402c945f6faa2d",
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false
+      },
+      "subjectCategories": [
+        "Electronics And Electrical Engineering"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20020080878,
+        "ear": "NO",
+        "id": "341284a7664a4b69a63de8c7c57fca77",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "stiType": "PREPRINT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-09-07T12:53:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20020080878,
+          "meta": {
+            "author": {
+              "name": "Baer, Jean Marie"
+            },
+            "organization": {
+              "name": "Aerospace Corp.",
+              "location": "United States"
+            }
+          },
+          "id": "018fc87539174442aea81ab8027e7264"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20020080878,
+          "meta": {
+            "author": {
+              "name": "Hwang, Warren C."
+            },
+            "organization": {
+              "name": "Aerospace Corp.",
+              "location": "United States"
+            }
+          },
+          "id": "2a23bffcad364dcda78ef03b5e729ad8"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20020080878,
+          "meta": {
+            "author": {
+              "name": "Ang, Valerie J."
+            },
+            "organization": {
+              "name": "Aerospace Corp.",
+              "location": "United States"
+            }
+          },
+          "id": "94adcbd27b1f4a44b57238d737155c58"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20020080878,
+          "meta": {
+            "author": {
+              "name": "Hayden, Jeff"
+            },
+            "organization": {
+              "name": "Eagle-Picher Technologies, LLC",
+              "location": "Colorado Springs, CO United States"
+            }
+          },
+          "id": "eeaf1e3c53214808b980c2896c8ebec2"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20020080878,
+          "meta": {
+            "author": {
+              "name": "Rao, Gopalakrishna"
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD United States"
+            }
+          },
+          "id": "75a301bf32fd4790910ffe38932a7dad"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20020080878,
+          "meta": {
+            "author": {
+              "name": "Day, John H."
+            },
+            "organization": {}
+          },
+          "id": "5d4ebf5b51484783aaf2e0df15e9c42f"
+        }
+      ],
+      "stiTypeDetails": "Preprint (Draft being sent to journal)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-09-07T12:53:00.0000000+00:00",
+      "center": {
+        "code": "GSFC",
+        "name": "Goddard Space Flight Center",
+        "id": "973fae00c3584b9fb4c762ae9870d0f6"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "country": "United States",
+          "submissionId": 20020080878,
+          "endDate": "2002-04-25T00:00:00.0000000+00:00",
+          "name": "2002 Space Power Workshop",
+          "location": "Redondo Beach, CA",
+          "id": "5c10d669678f4a14b8ef3cb5b0cff43c",
+          "startDate": "2002-04-22T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20020080878,
+          "id": "3dfca87d15944b05b6d39660c577e388",
+          "publicationDate": "2002-01-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20020080878.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20020080878/downloads/20020080878.pdf",
+            "pdf": "/api/citations/20020080878/downloads/20020080878.pdf",
+            "fulltext": "/api/citations/20020080878/downloads/20020080878.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  },
+  {
+    "id": "20040087851",
+    "source": "NTRS",
+    "title": "Induced abnormality in Mir- and Earth grown Super Dwarf wheat",
+    "summary": "Super-dwarf wheat grown on the Mir space station using the Svet \"Greenhouse\" exhibited morphological, metabolic and reproductive abnormalities compared with Earth-grown wheat. Of prominent importance were the abnormalities associated with reproductive ontogeny and the total absence of seed formation on Mir. Changes in the apical meristem associated with transition from the vegetative phase to floral initiation and development of the reproductive spike were all typical of 'Super-Dwarf' wheat up to the point of anthesis. Observation of ruptured anthers from the Mir-grown plants revealed what appeared to be normally developed pollen. These pollen gains, however, contained only one nuclei, while normal viable pollen is tri-nucleate. A potentially important difference in the flight experiment, compared with ground reference studies, was the presence of a high level of atmospheric ethylene (1,200 ppb). Ground studies conducted by exposing 'Super-Dwarf' wheat to ethylene just prior to anthesis resulted in manifestation of the same abnormalities observed in the space flight samples. c2002 Published by Elsevier Science Ltd on behalf of COSPAR.",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 101.58283
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "submissionId": 20040087851,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "9ff3ce3e633a4ec2a87b3fced5e4dacd",
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false
+      },
+      "subjectCategories": [
+        "Life Sciences (General)"
+      ],
+      "keywords": [
+        "long duration",
+        "NASA Discipline Plant Biology",
+        "NASA Experiment Number 284093 1/2",
+        "Flight Experiment",
+        "Non-NASA Center",
+        "manned",
+        "Mir Project",
+        "Weightlessness",
+        "Gravitation",
+        "Space Flight",
+        "Triticum/drug effects/embryology/growth & development",
+        "Flowers/drug effects/growth & development",
+        "Ethylenes/pharmacology",
+        "Plant Growth Regulators/pharmacology",
+        "Reproduction/drug effects/physiology",
+        "Meristem/drug effects/growth & development",
+        "Environment, Controlled",
+        "Pollen/drug effects/growth & development",
+        "Comparative Study"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20040087851,
+        "ear": "NO",
+        "id": "3e86c6abb90944169d5af6658d88fa2c",
+        "itar": "NO"
+      },
+      "distributionDate": "2011-08-23T00:00:00.0000000+00:00",
+      "stiType": "REPRINT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-21T20:01:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20040087851,
+          "meta": {
+            "author": {
+              "name": "Bubenheim, D. L."
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field CA United States"
+            }
+          },
+          "id": "4ae770fa5cb348bd9d6ba190ecedfb77"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20040087851,
+          "meta": {
+            "author": {
+              "name": "Stieber, J."
+            },
+            "organization": {}
+          },
+          "id": "35e217003527454e860e8e999ad377fc"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20040087851,
+          "meta": {
+            "author": {
+              "name": "Campbell, W. F."
+            },
+            "organization": {}
+          },
+          "id": "f1e9efa9675f4a0f8f2f08daf7a4883c"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20040087851,
+          "meta": {
+            "author": {
+              "name": "Salisbury, F. B."
+            },
+            "organization": {}
+          },
+          "id": "cd292901de584a1ab22bccdcf23197f3"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20040087851,
+          "meta": {
+            "author": {
+              "name": "Levinski, M."
+            },
+            "organization": {}
+          },
+          "id": "6a2df89be7454283a8127794eb34bf70"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20040087851,
+          "meta": {
+            "author": {
+              "name": "Sytchev, V."
+            },
+            "organization": {}
+          },
+          "id": "fa7aca4f72604bcabb45deaa01a12a98"
+        },
+        {
+          "sequence": 6,
+          "submissionId": 20040087851,
+          "meta": {
+            "author": {
+              "name": "Podolsky, I."
+            },
+            "organization": {}
+          },
+          "id": "bd2b7a1c0b874af88da91d20a3f03d20"
+        },
+        {
+          "sequence": 7,
+          "submissionId": 20040087851,
+          "meta": {
+            "author": {
+              "name": "Chernova, L."
+            },
+            "organization": {}
+          },
+          "id": "02fb896b501843428da6ef40710e89a5"
+        },
+        {
+          "sequence": 8,
+          "submissionId": 20040087851,
+          "meta": {
+            "author": {
+              "name": "Pdolsky, I."
+            },
+            "organization": {}
+          },
+          "id": "1595b9a46f454c8d870b2ec3d1bbac48"
+        }
+      ],
+      "stiTypeDetails": "Reprint (Version printed in journal)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-21T20:01:00.0000000+00:00",
+      "center": {
+        "code": "CDMS",
+        "name": "Legacy CDMS",
+        "id": "092d6e0881874968859b972d39a888dc"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "publications": [
+        {
+          "volume": "31",
+          "submissionId": 20040087851,
+          "issue": "1",
+          "id": "9dc8910b44fc4676b8e10f7a0aa57307",
+          "publicationName": "Advances in space research :  the official journal of the Committee on Space Research (COSPAR)",
+          "publicationDate": "2003-01-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  },
+  {
+    "id": "20110005578",
+    "source": "NTRS",
+    "title": "Detecting Water on Super-Earths Using JAVST",
+    "summary": "Nearby lower train sequence stars host a class of planets known as Super-Earths, that have no analog in our own solar system. Super-Earths are rocky and/or icy planets with masses up to about 10 Earth masses, They are expected to host atmospheres generated by a number of processes including accretion of chondritic material. Water vapor should be a common constituent of super-Earth atmospheres, and may be detectable in transiting super-Earths using transmission spectroscopy during primar y eclipse, and emission spectroscopy at secondary eclipse. I will discuss the prospects for super-Earth atmospheric measurements using JWST.",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 100.6503
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "submissionId": 20110005578,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "9ce0f16228504e42a6bd2c1e6d0ecaab",
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false
+      },
+      "subjectCategories": [
+        "Astronomy"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20110005578,
+        "ear": "NO",
+        "id": "04837a56dced4dccaff9886cff3ca0a8",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-17T00:00:00.0000000+00:00",
+      "stiType": "OTHER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-25T08:51:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20110005578,
+          "meta": {
+            "author": {
+              "name": "Deming, D."
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD, United States"
+            }
+          },
+          "id": "cf34d71dcf8f434ea4b9e43c88ff6209"
+        }
+      ],
+      "stiTypeDetails": "Other",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-25T08:51:00.0000000+00:00",
+      "center": {
+        "code": "GSFC",
+        "name": "Goddard Space Flight Center",
+        "id": "973fae00c3584b9fb4c762ae9870d0f6"
+      },
+      "onlyAbstract": true,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "publications": [
+        {
+          "submissionId": 20110005578,
+          "id": "26b5a43e5cac4f3a8d7d0de8be3f22ed",
+          "publicationDate": "2010-01-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20110005578.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20110005578/downloads/20110005578.pdf",
+            "pdf": "/api/citations/20110005578/downloads/20110005578.pdf",
+            "fulltext": "/api/citations/20110005578/downloads/20110005578.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  },
+  {
+    "id": "20110007127",
+    "source": "NTRS",
+    "title": "Recent Transits of the Super-Earth Exoplanet GJ 1214B",
+    "summary": "We report recent ground-based photometry of the transiting super-Earth exoplanet GJ1214b at several wavelengths, including the infrared near 1.25 microns (J-band). We observed a J-band transit with the FLAMINGOS infrared imager and the 2.1-meter telescope on Kitt Peak, and we observed several optical transits using a 0.5-meter telescope on Kitt Peak and the 0.36-meter Universidad de Monterrey Observatory telescope. Our high-precision J-band observations exploit the brightness of the M-dwarf host star at this infrared wavelength as compared to the optical, as well as being significantly less affected by stellar activity and limb darkening. We fit the J-band transit to obtain an independent determination of the planetary and stellar radii. Our radius for the planet (2.61 +0.30 / -0.11 Earth radii) is in excellent agreement with the discovery value reported by Charbonneau et al. based on optical data. We demonstrate that the planetary radius is insensitive to degeneracies in the fitting process. We use all of our observations to improve the transit ephemeris, finding P=1.5804043 +/- 0.0000005 days, and T0=2454964.94390 +/- 0.00006 BJD.",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 96.935974
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "submissionId": 20110007127,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "97d24371506543d8951a344b206835f1",
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false
+      },
+      "subjectCategories": [
+        "Astronomy"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20110007127,
+        "ear": "NO",
+        "id": "22fa2be1338b4fbc8d9c74e6c82c30f6",
+        "itar": "NO"
+      },
+      "distributionDate": "2018-06-06T00:00:00.0000000+00:00",
+      "stiType": "PREPRINT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-25T08:59:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20110007127,
+          "meta": {
+            "author": {
+              "name": "Sada, Pedro V."
+            },
+            "organization": {
+              "name": "Universidad de Monterrey",
+              "location": "Monterrey, Mexico"
+            }
+          },
+          "id": "cdb68360b7964d61b8400248ee8ad5b1"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20110007127,
+          "meta": {
+            "author": {
+              "name": "Deming, Drake"
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD, United States"
+            }
+          },
+          "id": "8fd7802a8b294a3a92e0988dc3e1723e"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20110007127,
+          "meta": {
+            "author": {
+              "name": "Jackson, Brian"
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD, United States"
+            }
+          },
+          "id": "57bf9dab0c4343e7ae4bbbe0a5c38b4c"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20110007127,
+          "meta": {
+            "author": {
+              "name": "Jennings, Donald E."
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD, United States"
+            }
+          },
+          "id": "e8f7f966292e4930ac42576b28fc3b25"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20110007127,
+          "meta": {
+            "author": {
+              "name": "Peterson, Steven W."
+            },
+            "organization": {
+              "name": "Kitt Peak National Observatory",
+              "location": "Tucson, AZ, United States"
+            }
+          },
+          "id": "25b0b6dbc88a4a63830f9dd5b2309051"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20110007127,
+          "meta": {
+            "author": {
+              "name": "Haase, Flynn"
+            },
+            "organization": {
+              "name": "Kitt Peak National Observatory",
+              "location": "Tucson, AZ, United States"
+            }
+          },
+          "id": "c0fee0a11b864df58a373575346f85c5"
+        },
+        {
+          "sequence": 6,
+          "submissionId": 20110007127,
+          "meta": {
+            "author": {
+              "name": "Bays, Kevin"
+            },
+            "organization": {
+              "name": "Kitt Peak National Observatory",
+              "location": "Tucson, AZ, United States"
+            }
+          },
+          "id": "27ea294a84434a0fbdf6a7e40abb89da"
+        },
+        {
+          "sequence": 7,
+          "submissionId": 20110007127,
+          "meta": {
+            "author": {
+              "name": "OGorman, Eamon"
+            },
+            "organization": {
+              "name": "Trinity Coll.",
+              "location": "Dublin, Ireland"
+            }
+          },
+          "id": "3bcf5e70678a4056abb7d7c50e510d65"
+        },
+        {
+          "sequence": 8,
+          "submissionId": 20110007127,
+          "meta": {
+            "author": {
+              "name": "Lundsford, Alan"
+            },
+            "organization": {
+              "name": "Catholic Univ. of America",
+              "location": "Washington, DC, United States"
+            }
+          },
+          "id": "4125e2c676064fefa2e39ac0f17266b6"
+        }
+      ],
+      "stiTypeDetails": "Preprint (Draft being sent to journal)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-25T08:59:00.0000000+00:00",
+      "center": {
+        "code": "GSFC",
+        "name": "Goddard Space Flight Center",
+        "id": "973fae00c3584b9fb4c762ae9870d0f6"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "publications": [
+        {
+          "submissionId": 20110007127,
+          "id": "274d9408a94c4a5d853d08994454b1e6",
+          "publicationDate": "2001-11-12T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20110007127.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20110007127/downloads/20110007127.pdf",
+            "pdf": "/api/citations/20110007127/downloads/20110007127.pdf",
+            "fulltext": "/api/citations/20110007127/downloads/20110007127.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  }
+]

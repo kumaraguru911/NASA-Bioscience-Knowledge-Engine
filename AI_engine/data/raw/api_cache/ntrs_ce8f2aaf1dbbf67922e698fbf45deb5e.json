@@ -1,0 +1,357 @@
+[
+  {
+    "id": "20250007739",
+    "source": "NTRS",
+    "title": "Gravity Observation and Dark Energy Detection Explorer in the Solar System - NASA Innovative Concepts (NIAC) Phase II Final Report",
+    "summary": "The Gravity Probe and Dark Energy Detection Mission (GDEM) mission is a proposed ambitious multi-science mission in gravity and dark energy measurements using a tetrahedral spacecraft formation 1 AU from the Sun. Leveraging atomic drag-free test masses, the atom interferometer quantum sensor approach, and laser ranging for precise measurements, the mission will focus on the scalar force gradient tensor's trace, unaffected by standard gravitational forces. This scientifically and technologically feasible 3-year mission in the solar system promises to provide significant evidence of the cubic Galileon field as a possible source for dark energy and a model agnostic test of the gravity inverse square law in general. At the same time, it provides a rich set of measurement data for mid-band gravitational wave detection, dark matter detection, precise measurements of solar gravity and detection of unknown solar system bodies.",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 128.54405
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "submissionId": 20250007739,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": true,
+        "belongsToPublisher": false,
+        "id": "67e17b9c5c9440efaa22b692afa2583f",
+        "determinationType": "GOV_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": true
+      },
+      "subjectCategories": [
+        "Astrophysics",
+        "Astronomy"
+      ],
+      "keywords": [
+        "NIAC Phase II",
+        "Cubic Galileon Field",
+        "Atom Interferometer",
+        "Dark Energy"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20250007739,
+        "ear": "NO",
+        "id": "8e253fc6713b4d1190502923f3f15501",
+        "category": [
+          {
+            "submissionExportControlId": "c40eb87736b844cba9b428d594485844",
+            "id": "6c5e4cd1ff4d4bc1a69fbc5b0922882a",
+            "category": 0
+          }
+        ],
+        "itar": "NO"
+      },
+      "distributionDate": "2025-08-22T05:00:00.0000000+00:00",
+      "otherReportNumbers": [],
+      "fundingNumbers": [
+        {
+          "number": "80NM0018D0004 ",
+          "submissionId": 20250007739,
+          "id": "15ead4c35a714579a217e2016d65fe1f",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "80HQTR20NOA01-20NIAC-A2",
+          "submissionId": 20250007739,
+          "id": "b30438ead48745e1b84ca9bf5ffaf6c8",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "submittedDate": "2025-08-07T14:21:11.1993120+00:00",
+      "stiType": "CONTRACTOR_OR_GRANTEE_REPORT",
+      "distribution": "PUBLIC",
+      "authorAffiliations": [
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 0,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Nan Yu"
+            },
+            "organization": {
+              "name": "Jet Propulsion Laboratory",
+              "location": "La Ca\u00f1ada Flintridge, United States"
+            }
+          },
+          "id": "fcc4b7117a194809aa2ba9bae46cc914",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "f833d62fa71a4cacb649c73140d3d8c1"
+        },
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 1,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Rashied Amini"
+            },
+            "organization": {
+              "name": "Jet Propulsion Laboratory",
+              "location": "La Ca\u00f1ada Flintridge, United States"
+            }
+          },
+          "id": "06634697859b425b8671aa89a17894c7",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "bc8c3da2f83e45e1b0f074c5c502483b"
+        },
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 2,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "name": "Phil Bull"
+            },
+            "organization": {
+              "name": "Jet Propulsion Laboratory",
+              "location": "La Ca\u00f1ada Flintridge, United States"
+            }
+          },
+          "id": "de73c37b38864747a39ecfba5ba5aa4d",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "39f0a8568f585f6eaa58700c7cc68406",
+          "sequence": 3,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "name": "Yanbei Chen"
+            },
+            "organization": {
+              "name": "California Institute of Technology",
+              "location": "Pasadena, United States"
+            }
+          },
+          "id": "fab7bdea15d54e17aeb532511109a639",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 4,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Sheng-wey Chiow"
+            },
+            "organization": {
+              "name": "Jet Propulsion Laboratory",
+              "location": "La Ca\u00f1ada Flintridge, United States"
+            }
+          },
+          "id": "6478b207f9ca4b84b68db1d03ff7d980",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "83f362d46bba4061b702c2b140b01b0d"
+        },
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 5,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Curt J Cutler"
+            },
+            "organization": {
+              "name": "Jet Propulsion Laboratory",
+              "location": "La Ca\u00f1ada Flintridge, United States"
+            }
+          },
+          "id": "a714289853774ba48db1d8a2326d242a",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "5632e2a9c4f94f5296f3ffe5c3418073"
+        },
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 6,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Olivier Dor\u00e9"
+            },
+            "organization": {
+              "name": "Jet Propulsion Laboratory",
+              "location": "La Ca\u00f1ada Flintridge, United States"
+            }
+          },
+          "id": "8a81281192604e6d8e465298990f0af6",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "11f7097584df4df5b167e91040632cc5"
+        },
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 7,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "name": "J\u00e9r\u00f4me Gleyzes"
+            },
+            "organization": {
+              "name": "Jet Propulsion Laboratory",
+              "location": "La Ca\u00f1ada Flintridge, United States"
+            }
+          },
+          "id": "0fa3458481be4886bc2ed5a66647eaac",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 8,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Jeffrey B Jewell"
+            },
+            "organization": {
+              "name": "Jet Propulsion Laboratory",
+              "location": "La Ca\u00f1ada Flintridge, United States"
+            }
+          },
+          "id": "8027f34435f740d5ba24894bd5dd5f5d",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "a38c5aeb350444d1b027206b3c4ffb8c"
+        },
+        {
+          "organizationId": "7354b6f97b02576fb9c66f60d484fa23",
+          "sequence": 9,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "name": "Holger M\u00fcller "
+            },
+            "organization": {
+              "name": "University of California, Berkeley",
+              "location": "Berkeley, United States"
+            }
+          },
+          "id": "97f5dde996804ef3ad6585e8a3a81dce",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "2e21be8eca415f71b317153fa1736c09",
+          "sequence": 10,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Kristofer M Pardo"
+            },
+            "organization": {
+              "name": "University of Southern California",
+              "location": "Los Angeles, United States"
+            }
+          },
+          "id": "1e4933ee6f594ecfb4866d07a447e4b4",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "c46574f4367f48a8917e8dabb9768066"
+        },
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 11,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Jason Rhodes"
+            },
+            "organization": {
+              "name": "Jet Propulsion Laboratory",
+              "location": "La Ca\u00f1ada Flintridge, United States"
+            }
+          },
+          "id": "083c1db93e5541e8a3543cfbb0aee79b",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "cb11b18a9e154316b361dd7cd7d095a9"
+        },
+        {
+          "organizationId": "ed6c23b9b9605ad4807d458e864a17cd",
+          "sequence": 12,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "name": "Ashmeet Singh"
+            },
+            "organization": {
+              "name": "Whitman College",
+              "location": "Walla Walla, United States"
+            }
+          },
+          "id": "1772b58d037a44db8e9be5d7b43782cc",
+          "userType": "OTHER",
+          "userId": "03967bccf6144fe1b0c8ee7716e8f372"
+        },
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 13,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Slava Turyshev"
+            },
+            "organization": {
+              "name": "Jet Propulsion Laboratory",
+              "location": "La Ca\u00f1ada Flintridge, United States"
+            }
+          },
+          "id": "cd14fb7568a84e8a853ecd9ca797f9db",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "a493524d74c64f7bbc783f80c39858a4"
+        }
+      ],
+      "stiTypeDetails": "Contractor or Grantee Report",
+      "technicalReviewType": "NASA_PEER_COMMITTEE",
+      "modified": "2025-09-26T13:50:57.1948460+00:00",
+      "sourceIdentifiers": [],
+      "created": "2025-07-30T16:35:44.1857510+00:00",
+      "center": {
+        "code": "HQ",
+        "name": "Headquarters",
+        "id": "f0865a34ba1f474d865ab51f212fc69f"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20250007739,
+        "id": "58f82febead743deaadf4041349f03c5"
+      },
+      "meetings": [],
+      "status": "CURATED",
+      "publications": [
+        {
+          "submissionId": 20250007739,
+          "id": "fb8066b7b2864802b4f959263153b34f",
+          "publicationDate": "2024-06-25T05:00:00.0000000+00:00"
+        }
+      ],
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "NIAC_2020_PhII_Yu_GDEM_v2.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20250007739/downloads/NIAC_2020_PhII_Yu_GDEM_v2.pdf",
+            "pdf": "/api/citations/20250007739/downloads/NIAC_2020_PhII_Yu_GDEM_v2.pdf",
+            "fulltext": "/api/citations/20250007739/downloads/NIAC_2020_PhII_Yu_GDEM_v2.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  }
+]

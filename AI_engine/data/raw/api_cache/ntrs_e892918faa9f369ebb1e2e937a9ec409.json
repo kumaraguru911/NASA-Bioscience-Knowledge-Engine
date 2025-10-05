@@ -1,0 +1,625 @@
+[
+  {
+    "id": "20250007739",
+    "source": "NTRS",
+    "title": "Gravity Observation and Dark Energy Detection Explorer in the Solar System - NASA Innovative Concepts (NIAC) Phase II Final Report",
+    "summary": "The Gravity Probe and Dark Energy Detection Mission (GDEM) mission is a proposed ambitious multi-science mission in gravity and dark energy measurements using a tetrahedral spacecraft formation 1 AU from the Sun. Leveraging atomic drag-free test masses, the atom interferometer quantum sensor approach, and laser ranging for precise measurements, the mission will focus on the scalar force gradient tensor's trace, unaffected by standard gravitational forces. This scientifically and technologically feasible 3-year mission in the solar system promises to provide significant evidence of the cubic Galileon field as a possible source for dark energy and a model agnostic test of the gravity inverse square law in general. At the same time, it provides a rich set of measurement data for mid-band gravitational wave detection, dark matter detection, precise measurements of solar gravity and detection of unknown solar system bodies.",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 128.75742
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "submissionId": 20250007739,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": true,
+        "belongsToPublisher": false,
+        "id": "67e17b9c5c9440efaa22b692afa2583f",
+        "determinationType": "GOV_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": true
+      },
+      "subjectCategories": [
+        "Astrophysics",
+        "Astronomy"
+      ],
+      "keywords": [
+        "NIAC Phase II",
+        "Cubic Galileon Field",
+        "Atom Interferometer",
+        "Dark Energy"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20250007739,
+        "ear": "NO",
+        "id": "8e253fc6713b4d1190502923f3f15501",
+        "category": [
+          {
+            "submissionExportControlId": "c40eb87736b844cba9b428d594485844",
+            "id": "6c5e4cd1ff4d4bc1a69fbc5b0922882a",
+            "category": 0
+          }
+        ],
+        "itar": "NO"
+      },
+      "distributionDate": "2025-08-22T05:00:00.0000000+00:00",
+      "otherReportNumbers": [],
+      "fundingNumbers": [
+        {
+          "number": "80NM0018D0004 ",
+          "submissionId": 20250007739,
+          "id": "15ead4c35a714579a217e2016d65fe1f",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "80HQTR20NOA01-20NIAC-A2",
+          "submissionId": 20250007739,
+          "id": "b30438ead48745e1b84ca9bf5ffaf6c8",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "submittedDate": "2025-08-07T14:21:11.1993120+00:00",
+      "stiType": "CONTRACTOR_OR_GRANTEE_REPORT",
+      "distribution": "PUBLIC",
+      "authorAffiliations": [
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 0,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Nan Yu"
+            },
+            "organization": {
+              "name": "Jet Propulsion Laboratory",
+              "location": "La Ca\u00f1ada Flintridge, United States"
+            }
+          },
+          "id": "fcc4b7117a194809aa2ba9bae46cc914",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "f833d62fa71a4cacb649c73140d3d8c1"
+        },
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 1,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Rashied Amini"
+            },
+            "organization": {
+              "name": "Jet Propulsion Laboratory",
+              "location": "La Ca\u00f1ada Flintridge, United States"
+            }
+          },
+          "id": "06634697859b425b8671aa89a17894c7",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "bc8c3da2f83e45e1b0f074c5c502483b"
+        },
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 2,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "name": "Phil Bull"
+            },
+            "organization": {
+              "name": "Jet Propulsion Laboratory",
+              "location": "La Ca\u00f1ada Flintridge, United States"
+            }
+          },
+          "id": "de73c37b38864747a39ecfba5ba5aa4d",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "39f0a8568f585f6eaa58700c7cc68406",
+          "sequence": 3,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "name": "Yanbei Chen"
+            },
+            "organization": {
+              "name": "California Institute of Technology",
+              "location": "Pasadena, United States"
+            }
+          },
+          "id": "fab7bdea15d54e17aeb532511109a639",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 4,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Sheng-wey Chiow"
+            },
+            "organization": {
+              "name": "Jet Propulsion Laboratory",
+              "location": "La Ca\u00f1ada Flintridge, United States"
+            }
+          },
+          "id": "6478b207f9ca4b84b68db1d03ff7d980",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "83f362d46bba4061b702c2b140b01b0d"
+        },
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 5,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Curt J Cutler"
+            },
+            "organization": {
+              "name": "Jet Propulsion Laboratory",
+              "location": "La Ca\u00f1ada Flintridge, United States"
+            }
+          },
+          "id": "a714289853774ba48db1d8a2326d242a",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "5632e2a9c4f94f5296f3ffe5c3418073"
+        },
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 6,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Olivier Dor\u00e9"
+            },
+            "organization": {
+              "name": "Jet Propulsion Laboratory",
+              "location": "La Ca\u00f1ada Flintridge, United States"
+            }
+          },
+          "id": "8a81281192604e6d8e465298990f0af6",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "11f7097584df4df5b167e91040632cc5"
+        },
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 7,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "name": "J\u00e9r\u00f4me Gleyzes"
+            },
+            "organization": {
+              "name": "Jet Propulsion Laboratory",
+              "location": "La Ca\u00f1ada Flintridge, United States"
+            }
+          },
+          "id": "0fa3458481be4886bc2ed5a66647eaac",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 8,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Jeffrey B Jewell"
+            },
+            "organization": {
+              "name": "Jet Propulsion Laboratory",
+              "location": "La Ca\u00f1ada Flintridge, United States"
+            }
+          },
+          "id": "8027f34435f740d5ba24894bd5dd5f5d",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "a38c5aeb350444d1b027206b3c4ffb8c"
+        },
+        {
+          "organizationId": "7354b6f97b02576fb9c66f60d484fa23",
+          "sequence": 9,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "name": "Holger M\u00fcller "
+            },
+            "organization": {
+              "name": "University of California, Berkeley",
+              "location": "Berkeley, United States"
+            }
+          },
+          "id": "97f5dde996804ef3ad6585e8a3a81dce",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "2e21be8eca415f71b317153fa1736c09",
+          "sequence": 10,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Kristofer M Pardo"
+            },
+            "organization": {
+              "name": "University of Southern California",
+              "location": "Los Angeles, United States"
+            }
+          },
+          "id": "1e4933ee6f594ecfb4866d07a447e4b4",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "c46574f4367f48a8917e8dabb9768066"
+        },
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 11,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Jason Rhodes"
+            },
+            "organization": {
+              "name": "Jet Propulsion Laboratory",
+              "location": "La Ca\u00f1ada Flintridge, United States"
+            }
+          },
+          "id": "083c1db93e5541e8a3543cfbb0aee79b",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "cb11b18a9e154316b361dd7cd7d095a9"
+        },
+        {
+          "organizationId": "ed6c23b9b9605ad4807d458e864a17cd",
+          "sequence": 12,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "name": "Ashmeet Singh"
+            },
+            "organization": {
+              "name": "Whitman College",
+              "location": "Walla Walla, United States"
+            }
+          },
+          "id": "1772b58d037a44db8e9be5d7b43782cc",
+          "userType": "OTHER",
+          "userId": "03967bccf6144fe1b0c8ee7716e8f372"
+        },
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 13,
+          "submissionId": 20250007739,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Slava Turyshev"
+            },
+            "organization": {
+              "name": "Jet Propulsion Laboratory",
+              "location": "La Ca\u00f1ada Flintridge, United States"
+            }
+          },
+          "id": "cd14fb7568a84e8a853ecd9ca797f9db",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "a493524d74c64f7bbc783f80c39858a4"
+        }
+      ],
+      "stiTypeDetails": "Contractor or Grantee Report",
+      "technicalReviewType": "NASA_PEER_COMMITTEE",
+      "modified": "2025-09-26T13:50:57.1948460+00:00",
+      "sourceIdentifiers": [],
+      "created": "2025-07-30T16:35:44.1857510+00:00",
+      "center": {
+        "code": "HQ",
+        "name": "Headquarters",
+        "id": "f0865a34ba1f474d865ab51f212fc69f"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20250007739,
+        "id": "58f82febead743deaadf4041349f03c5"
+      },
+      "meetings": [],
+      "status": "CURATED",
+      "publications": [
+        {
+          "submissionId": 20250007739,
+          "id": "fb8066b7b2864802b4f959263153b34f",
+          "publicationDate": "2024-06-25T05:00:00.0000000+00:00"
+        }
+      ],
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "NIAC_2020_PhII_Yu_GDEM_v2.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20250007739/downloads/NIAC_2020_PhII_Yu_GDEM_v2.pdf",
+            "pdf": "/api/citations/20250007739/downloads/NIAC_2020_PhII_Yu_GDEM_v2.pdf",
+            "fulltext": "/api/citations/20250007739/downloads/NIAC_2020_PhII_Yu_GDEM_v2.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  },
+  {
+    "id": "20210020508",
+    "source": "NTRS",
+    "title": "Indirect Dark Matter Searches at Ultrahigh Energy Neutrino Detectors",
+    "summary": "High to ultrahigh energy neutrino detectors can uniquely probe the properties of dark matter\u03c7by searching for the secondary products produced through annihilation and/or decay processes. We evaluate the sensitivities to dark matter thermally averaged annihilation cross section\u3008\u03c3v\u3009and partial decay width into neutrinos \u0393<sub>\u03c7\u2192\u03bd \u0304\u03bd</sub> (in the mass scale 10<sup>7</sup> \u2264 m<sub>\u03c7</sub>/GeV \u2264 10<sup>15</sup>) for next generation observatories like POEMMA and GRAND. We show that in the range 10<sup>7</sup> \u2264 m<sub>\u03c7</sub>/GeV \u2264 10<sup>11</sup>, space-based Cherenkov detectors like POEMMA have the advantage of full-sky coverage and rapid slewing, enabling an optimized dark matter observation strategy focusing on the Galactic center. We also show that ground-based radio detectors such as GRAND can achieve high sensitivities and high duty cycles in radio quiet areas. We compare the sensitivities of next generation neutrino experiments with existing constraints from IceCube and updated 90% C.L. upper limits on\u3008\u03c3v\u3009and \u0393<sub>\u03c7\u2192\u03bd \u0304\u03bd</sub> using results from the Pierre Auger Collaboration and ANITA. We show that in the range 10<sup>7</sup> \u2264 m<sub>\u03c7</sub>/GeV \u2264 10<sup>11</sup> POEMMA and GRAND10k will improve the neutrino sensitivity to particle dark matter by factors of 2 to 10 over existing limits, whereas GRAND200k will improve this sensitivity by two orders of magnitude. In the range 10<sup>11</sup> \u2264 m<sub>\u03c7</sub>/GeV \u2264 10<sup>15</sup>, POEMMA\u2019s fluorescence observation mode will achieve an unprecedented sensitivity to dark matter properties. Finally, we highlight the importance of the uncertainties related to the dark matter distribution in the Galactic halo, using the latest fit and estimates of the Galactic parameters. ",
+    "pdf_link": null,
+    "metadata": {
+      "_meta": {
+        "score": 116.652084
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "determinationType": "MAY_INCLUDE_COPYRIGHT_MATERIAL",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 20210020508,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "dd40c4df0f764b5983ee38b4d1fc578f"
+      },
+      "subjectCategories": [
+        "Astrophysics"
+      ],
+      "keywords": [
+        "Particle astrophysics",
+        "Particle dark matter",
+        "Neutrinos",
+        "Neutrino detection"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20210020508,
+        "ear": "NO",
+        "id": "e812640b16fc4441b858f0854774a92e",
+        "itar": "NO"
+      },
+      "distributionDate": "2021-10-01T04:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "399131.02.03.03.07",
+          "submissionId": 20210020508,
+          "id": "9a3305da952046cbb0692ca1d4b5c3da",
+          "type": "WBS"
+        },
+        {
+          "number": "80GSFC21M0002",
+          "submissionId": 20210020508,
+          "id": "a34cc0be636b4e7d8a76be709ca1f546",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "PHY-1620661",
+          "submissionId": 20210020508,
+          "id": "75e7ed8153824dccaf528a4be5955ddb",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "80NSSC18K046",
+          "submissionId": 20210020508,
+          "id": "4ce1f16bb13845c8b75db89e1a4601c5",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "DE-SC-0010113",
+          "submissionId": 20210020508,
+          "id": "7db85198222942bdabb80c5a6d8f540d",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "stiType": "ACCEPTED_MANUSCRIPT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2021-08-13T14:45:41.1928980+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "eeed7f9426495806b2a33dc2a92800f5",
+          "sequence": 0,
+          "submissionId": 20210020508,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0003-1933-2489",
+              "name": "Claire Guepin"
+            },
+            "organization": {
+              "name": "University of Maryland, College Park",
+              "location": "College Park, Maryland, United States"
+            }
+          },
+          "id": "f97469f6f9f3449f8f75bdacaa4dff9b",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "1f0706eb26d54d4bb81b6b43b84e4f03"
+        },
+        {
+          "organizationId": "ac5c6dd27e5f504f810c3926ae38e379",
+          "sequence": 1,
+          "submissionId": 20210020508,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0003-0161-5923",
+              "name": "Roberto Aloisio"
+            },
+            "organization": {
+              "name": "Gran Sasso Science Institute",
+              "location": "L\u2019Aquila, Italy"
+            }
+          },
+          "id": "202c7d5894654b05aee942b44129c96f",
+          "userId": "cebfe2b2d5a24843babb7f49697b9f7b"
+        },
+        {
+          "organizationId": "ac5c6dd27e5f504f810c3926ae38e379",
+          "sequence": 2,
+          "submissionId": 20210020508,
+          "meta": {
+            "author": {
+              "name": "Austin Cummings"
+            },
+            "organization": {
+              "name": "Gran Sasso Science Institute",
+              "location": "L\u2019Aquila, Italy"
+            }
+          },
+          "id": "f75dd74f38a34219940352f078f9eaaa",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "9db81e004a1a5e3189fb863bb529c2ce",
+          "sequence": 3,
+          "submissionId": 20210020508,
+          "meta": {
+            "author": {
+              "name": "Luis A Anchordoqu"
+            },
+            "organization": {
+              "name": "City University of New York",
+              "location": "New York, New York, United States"
+            }
+          },
+          "id": "5be3a7241ee7490c8db541606807cc3e",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "627f0016b5ec58d5ab150cb9a6759b32",
+          "sequence": 4,
+          "submissionId": 20210020508,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "John F Krizmanic"
+            },
+            "organization": {
+              "name": "University of Maryland, Baltimore County",
+              "location": "Baltimore, Maryland, United States"
+            }
+          },
+          "id": "757fd62cdf6941228e70b6e6b3e38a00",
+          "userType": "CIVIL",
+          "userId": "5954b471392f457490e6239f078f06c5"
+        },
+        {
+          "organizationId": "f68b6f3edb4e511b96a3f34faa09cebc",
+          "sequence": 5,
+          "submissionId": 20210020508,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0001-7374-376X",
+              "name": "Angela V Olinto"
+            },
+            "organization": {
+              "name": "University of Chicago",
+              "location": "Chicago, Illinois, United States"
+            }
+          },
+          "id": "276131295777474fb91c37062fc49226",
+          "userId": "18232b1f799946f784855c2b6e71fa3a"
+        },
+        {
+          "organizationId": "5fe374698ec954d4ab0c8cb9148f999a",
+          "sequence": 6,
+          "submissionId": 20210020508,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0001-6264-3990",
+              "name": "Mary Hall Reno"
+            },
+            "organization": {
+              "name": "University of Iowa",
+              "location": "Iowa City, Iowa, United States"
+            }
+          },
+          "id": "703f780f2b5f45919f1a7e9f8ca2debe",
+          "userId": "30bd8591e1dd4b98954c47f289f0e123"
+        },
+        {
+          "organizationId": "e081fcbdcd5059fa8fa7b6c5c6a2c483",
+          "sequence": 7,
+          "submissionId": 20210020508,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0002-4188-627X",
+              "name": "Tonia M Venters"
+            },
+            "organization": {
+              "name": "Goddard Space Flight Center",
+              "location": "Greenbelt, Maryland, United States"
+            }
+          },
+          "id": "75a6e08a12dd416080fdbcc629a8c1f9",
+          "userType": "CIVIL",
+          "userId": "405f96d445164e94a95658f7102e51d6"
+        }
+      ],
+      "stiTypeDetails": "Accepted Manuscript (Version with final changes)",
+      "technicalReviewType": "EXTERNAL_PEER_COMMITTEE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "created": "2021-08-13T14:31:13.5916170+00:00",
+      "center": {
+        "code": "GSFC",
+        "name": "Goddard Space Flight Center",
+        "id": "973fae00c3584b9fb4c762ae9870d0f6"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20210020508,
+        "id": "73fe429324d34e1291b93f4f171c944a"
+      },
+      "publications": [
+        {
+          "volume": "104",
+          "submissionId": 20210020508,
+          "issue": "8",
+          "issn": "2470-0010",
+          "publisher": "American Physical Society",
+          "eissn": "2470-0029",
+          "id": "eae9d13885144a54bd546bf444e29e7a",
+          "publicationName": "Physical Review D",
+          "publicationDate": "2021-10-01T04:00:00.0000000+00:00",
+          "issuePublicationDate": "2021-10-15T04:00:00.0000000+00:00",
+          "doi": "10.1103/PhysRevD.104.083002"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "Indirect dark matter.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20210020508/downloads/Indirect%20dark%20matter.pdf",
+            "pdf": "/api/citations/20210020508/downloads/Indirect%20dark%20matter.pdf",
+            "fulltext": "/api/citations/20210020508/downloads/Indirect%20dark%20matter.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2025-09-25-05-06"
+    }
+  }
+]
